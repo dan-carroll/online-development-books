@@ -3,7 +3,7 @@
 
 This is a simple list of online development books that are available to read online. This repository was kicked off by utilizing the [Simple Progressive Web App (PWA) template](https://github.com/nikkifurls/simplepwa) by [nikkifurls](https://github.com/nikkifurls).
 
-![book stack image](images/book_stack.jpg)
+<img src="images/book_stack.jpg" width="50%" height="50%" alt="book stack image">
 
 ## Book List
 
