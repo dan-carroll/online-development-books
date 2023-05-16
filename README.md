@@ -10,6 +10,7 @@ This is a simple list of online development books that are available to read onl
 I have utilized the [web2py framework](http://www.web2py.com/) in numerous projects over the years. It is a great way to learn to create fully functional web applications of any complexity while also learning Python. I totally consumed the fifth edition of this book and am currently delving into the latest (sixth) edition while getting up to speed on a new project. There are differences (updates) to the book and framework, so here I go again.
 
 
+<a href="https://www.freepik.com/free-vector/school-books-elements-set_9387094.htm#query=books&position=12&from_view=search&track=sph">Image by macrovector</a> on Freepik
 __________________________
 ### Below is the original README for the Simple PWA template
 __________________________
