@@ -4,8 +4,10 @@
 This is a simple list of online development books that are available to read online. This repository was kicked off by utilizing the [Simple Progressive Web App (PWA) template](https://github.com/nikkifurls/simplepwa) by [nikkifurls](https://github.com/nikkifurls).
 
 <p align="center">
-<img src="images/book_stack.jpg" width="50%" height="50%" alt="book stack image" style="margin:auto;">
+<img src="images/book_stack.jpg" width="50%" height="50%" alt="book stack image">
+<span style="margin:auto;">
 Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005145.htm#query=books&position=0&from_view=search&track=sph">Freepik</a>
+</span>
 </p>
 
 ## Book List
