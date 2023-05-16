@@ -13,13 +13,15 @@ header, footer {
 }
 
 header img {
-	float:left;
+	float: left;
+	height: 1.5rem;
 }
 
 .container {
 	margin: 0 auto;
 	max-width: 768px;
 	padding: 20px 5%;
+	clear: both;
 }
 
 section {
