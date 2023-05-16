@@ -1,4 +1,4 @@
-![book stack image](images\book_stack.jpg)
+![book stack image](images/book_stack.jpg)
 
 # Collection of Development Books Available to Read Online
 
