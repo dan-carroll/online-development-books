@@ -17,7 +17,7 @@ header {
 }
 
 header h1 {
-	margin: auto 5px;
+	margin: auto .5rem;
 	display: inline-block;
 }
 
