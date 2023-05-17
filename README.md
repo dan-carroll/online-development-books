@@ -9,11 +9,15 @@ This is a simple list of online development books that are available to read onl
 Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005145.htm#query=books&position=0&from_view=search&track=sph">Freepik</a>
 </p>
 
-## Book List
+## Python Book List
 
 ### [web2py Complete Reference Manual](http://www.web2py.com/book), 6th Edition (pre-release).
 > by Massimo Di Pierro (in English)
 
 I have utilized the [web2py framework](http://www.web2py.com/) in numerous projects over the years. It is a great way to learn to create fully functional web applications of any complexity while also learning Python. I totally consumed the fifth edition of this book and am currently delving into the latest (sixth) edition while getting up to speed on a new project. There are differences (updates) to the book and framework, so here I go again.
+
+### [Python for Everybody](https://www.py4e.com/html3/)
+> Exploring Data Using Python 3
+> by Dr. Charles R. Severance
 
 
