@@ -39,6 +39,10 @@ main {
 	background-color: #171717;
 }
 
+main img {
+	border-radius: 15px;
+}
+
 h1, h2 {
 	line-height: 1;
 	text-transform: uppercase;
