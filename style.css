@@ -12,6 +12,10 @@ header, footer {
 	text-align: center;
 }
 
+header {
+	min-height: 6rem;
+}
+
 header h1 {
 	margin: auto 5px;
 }
