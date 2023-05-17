@@ -13,11 +13,11 @@ footer {
 }
 
 header {
-	min-height: 6rem;
+	min-height: 7rem;
 }
 
 header h1 {
-	margin: 0;
+	margin: auto 0;
 	display: inline;
 }
 
