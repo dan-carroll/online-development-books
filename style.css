@@ -1,4 +1,4 @@
-html, body {
+body {
 	background-color: black;
 	color: white;
 	font-family: helvetica, arial, sans-serif;
@@ -34,11 +34,11 @@ header img {
 	margin: 0 auto;
 	max-width: 768px;
 	padding: 20px 5%;
-	clear: both;
 }
 
 section {
 	background-color: #171717;
+	clear: both;
 }
 
 h1, h2 {
