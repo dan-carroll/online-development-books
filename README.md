@@ -23,7 +23,16 @@ I have utilized the [web2py framework](http://www.web2py.com/) in numerous proje
 A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the web2py reference manual.
 
 ### [Python for Everybody - the Book](https://www.py4e.com/book)
->Details about the book, along with many translations.
+> Details about the book, along with many translations.
 
+### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+Have fun (Really), learning what you can do with Python,
+
+### [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+81 games, puzzles, art, simulations, and other programs designed to be simple enough for beginners to read through their code and get inspiration.
 
 
