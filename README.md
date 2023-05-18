@@ -93,4 +93,24 @@ Practically everything you need to know about Git for version control. In Englis
 
 A different take on Git. All online.
 
+## Creating the Web
+> Maybe everyone should start coding by creating their own web page(s)
+
+### [Dive into HTML5](https://diveinto.html5doctor.com/)
+> by Mark Pilgrim and the HTML5 Doctor web community
+
+Five Things You Should Know About HTML5
+
+## Unix -- and Linux
+
+### [The Unix Workbench](https://seankross.com/the-unix-workbench/)
+> by Sean Kross
+
+An introduction to Unix-like operating systems, such as macOS and Linux, and programming on them.
+
+### [The Bash Guide](https://guide.bash.academy/)
+> by Maarten Billemont
+
+This guide is an introduction to basic and advanced concepts of the bash shell.
+
 
