@@ -80,3 +80,17 @@ Learn to Code by Programming Robots in Minecraft! You've mined for diamonds, cra
 
 Teaches you how to program in Scratch, the graphical programming language from MIT for ages 8 to 16. Actually, that should be from 8 to 108.
 
+## Toolbox Books
+> Every programmer (developer) needs a toolbox.
+
+### [Pro Git, 2nd edition (2014)](https://git-scm.com/book/en/v2), updated
+> by Scott Chacon and Ben Straub
+
+Practically everything you need to know about Git for version control. In English, but with many translations.
+
+### [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)
+> from the makers of [Tower](https://www.git-tower.com/learn/git/ebook)
+
+A different take on Git. All online.
+
+
