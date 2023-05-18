@@ -35,4 +35,15 @@ Have fun (Really), learning what you can do with Python,
 
 81 games, puzzles, art, simulations, and other programs designed to be simple enough for beginners to read through their code and get inspiration.
 
+### [Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+42 programming exercises in this book let you practice what you've learned.
+
+### [The Recursive Book of Recursion](https://inventwithpython.com/recursion/)
+> Recursion, Understandable by Humans  
+> by [Al Sweigart](https://alsweigart.com/)
+
+This book teaches the basics of recursion, exposes the ways it's often poorly taught, and clarifies the fundamental principles behind all recursive algorithms.
+
 
