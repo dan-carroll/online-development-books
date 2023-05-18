@@ -46,4 +46,24 @@ Have fun (Really), learning what you can do with Python,
 
 This book teaches the basics of recursion, exposes the ways it's often poorly taught, and clarifies the fundamental principles behind all recursive algorithms.
 
+### [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+Bridge the Gap Between Novice and Professional
+
+### [Cracking Codes with Python](https://inventwithpython.com/cracking/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+Teaches complete beginners how to program in the Python programming language.
+
+### [Invent Your Own Computer Games with Python, 4th Edition](https://inventwithpython.com/invent4thed/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+Teaches programming concepts with example games.
+
+### [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+Expand your abilities using the Pygame library to make games with graphics, animation, and sound.
+
 
