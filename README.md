@@ -20,7 +20,7 @@ I have utilized the [web2py framework](http://www.web2py.com/) in numerous proje
 > Exploring Data Using Python 3  
 > by Dr. Charles R. Severance
 
-A great place to start in learning the Python programming language, or just to learn to program.
+A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the web2py reference manual.
 
 ### [Python for Everybody - the Book](https://www.py4e.com/book)
 >Details about the book, along with many translations.
