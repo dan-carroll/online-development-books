@@ -17,7 +17,13 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
 I have utilized the [web2py framework](http://www.web2py.com/) in numerous projects over the years. It is a great way to learn to create fully functional web applications of any complexity while also learning Python. I totally consumed the fifth edition of this book and am currently delving into the latest (sixth) edition while getting up to speed on a new project. There are differences (updates) to the book and framework, so here I go again.
 
 ### [Python for Everybody](https://www.py4e.com/html3/)
-> Exploring Data Using Python 3
+> Exploring Data Using Python 3  
 > by Dr. Charles R. Severance
+
+A great place to start in learning the Python programming language, or just to learn to program.
+
+### [Python for Everybody - the Book](https://www.py4e.com/book)
+>Details about the book, along with many translations.
+
 
 
