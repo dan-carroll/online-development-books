@@ -10,6 +10,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
 </p>
 
 ## Python Book List
+> Probably the Best Way to Learn to Code
 
 ### [web2py Complete Reference Manual](http://www.web2py.com/book), 6th Edition (pre-release).
 > by Massimo Di Pierro (in English)
@@ -66,4 +67,16 @@ Teaches programming concepts with example games.
 
 Expand your abilities using the Pygame library to make games with graphics, animation, and sound.
 
+## Not Just Kid Stuff
+> Game Play, and Coding, Is Not Just Kid Stuff
+
+### [Coding with Minecraft](https://turtleappstore.com/book/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+Learn to Code by Programming Robots in Minecraft! You've mined for diamonds, crafted dozens of tools, and built all sorts of structures—but what if you could program robots to do all of that for you in a fraction of the time?
+
+### [Scratch 3 Programming Playground](https://inventwithscratch.com/)
+> by [Al Sweigart](https://alsweigart.com/)
+
+Teaches you how to program in Scratch, the graphical programming language from MIT for ages 8 to 16. Actually, that should be from 8 to 108.
 
