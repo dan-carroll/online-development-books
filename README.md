@@ -12,7 +12,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
  <a  rel="noopener" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
  <a rel="noopener" href="#toolbox-books">Toolbox Books</a> | 
  <a rel="noopener" href="#creating-the-web">Creating the Web</a> | 
- <a rel="noopener" href="#unix----and-linux">Unix and Linux</a>
+ <a rel="noopener" href="#unix-and-linux">Unix and Linux</a>
 </p>
 <hr>
 
@@ -170,7 +170,7 @@ CSS is a system based on rules. I wrote this set of chapters to describe those r
 
 With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by scripting the Document Object Model (DOM) without a DOM library.
 
-## Unix -- and Linux
+## Unix and Linux
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
