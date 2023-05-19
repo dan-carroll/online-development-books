@@ -8,6 +8,14 @@ This is a simple list of online development books that are available to read onl
 <br>
 Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005145.htm#query=books&position=0&from_view=search&track=sph">Freepik</a>
 </p>
+<p>
+<a rel="noopener" target="_blank" href="#python-book-list">Python Books</a> | 
+ <a  rel="noopener" target="_blank" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
+ <a rel="noopener" target="_blank" href="#toolbox-books">Toolbox Books</a> | 
+ <a rel="noopener" target="_blank" href="#creating-the-web">Creating the Web</a> | 
+ <a rel="noopener" target="_blank" href="#unix----and-linux">Unix and Linux</a>
+</p>
+<hr>
 
 ## Python Book List
 > Probably the Best Way to Learn to Code
