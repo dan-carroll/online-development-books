@@ -19,7 +19,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
 ## Python Book List
 > Probably the Best Way to Learn to Code
 
-<span align="center">Back to the <a href="#top">Top</a></span>
+<p align="center">Back to the <a href="#top">Top</a></p>
 
 ### [web2py Complete Reference Manual](http://www.web2py.com/book), 6th Edition (pre-release).
 > by Massimo Di Pierro (in English)
@@ -79,7 +79,7 @@ Expand your abilities using the Pygame library to make games with graphics, anim
 ## Not Just Kid Stuff
 > Game Play, and Coding, Is Not Just Kid Stuff
 
-<span align="center">Back to the <a href="#top">Top</a></span>
+<p align="center">Back to the <a href="#top">Top</a></p>
 
 ### [Coding with Minecraft](https://turtleappstore.com/book/)
 > by [Al Sweigart](https://alsweigart.com/)
@@ -94,7 +94,7 @@ Teaches you how to program in Scratch, the graphical programming language from M
 ## Toolbox Books
 > Every programmer (developer) needs a toolbox.
 
-<span align="center">Back to the <a href="#top">Top</a></span>
+<p align="center">Back to the <a href="#top">Top</a></p>
 
 ### [Pro Git, 2nd edition (2014)](https://git-scm.com/book/en/v2), updated
 > by Scott Chacon and Ben Straub
@@ -121,7 +121,7 @@ The rmarkdown package (Allaire et al. 2023) was first created in early 2014. Dur
 ## Creating the Web
 > Maybe everyone should start coding by creating their own web page(s)
 
-<span align="center">Back to the <a href="#top">Top</a></span>
+<p align="center">Back to the <a href="#top">Top</a></p>
 
 ### [Dive into HTML5](https://diveinto.html5doctor.com/)
 > by Mark Pilgrim and the HTML5 Doctor web community
@@ -172,7 +172,7 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 
 ## Unix -- and Linux
 
-<span align="center">Back to the <a href="#top">Top</a></span>
+<p align="center">Back to the <a href="#top">Top</a></p>
 
 ### [The Unix Workbench](https://seankross.com/the-unix-workbench/)
 > by Sean Kross
