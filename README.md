@@ -9,16 +9,18 @@ This is a simple list of online development books that are available to read onl
 Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005145.htm#query=books&position=0&from_view=search&track=sph">Freepik</a>
 </p>
 <p align="center">
-<a rel="noopener" target="_blank" href="#python-book-list">Python Books</a> | 
- <a  rel="noopener" target="_blank" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
- <a rel="noopener" target="_blank" href="#toolbox-books">Toolbox Books</a> | 
- <a rel="noopener" target="_blank" href="#creating-the-web">Creating the Web</a> | 
- <a rel="noopener" target="_blank" href="#unix----and-linux">Unix and Linux</a>
+<a rel="noopener" href="#python-book-list">Python Books</a> | 
+ <a  rel="noopener" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
+ <a rel="noopener" href="#toolbox-books">Toolbox Books</a> | 
+ <a rel="noopener" href="#creating-the-web">Creating the Web</a> | 
+ <a rel="noopener" href="#unix----and-linux">Unix and Linux</a>
 </p>
 <hr>
 
 ## Python Book List
 > Probably the Best Way to Learn to Code
+
+Jump to the <a href="#top">Top</a> | Go to the <a href="#bottom">Bottom</a>
 
 ### [web2py Complete Reference Manual](http://www.web2py.com/book), 6th Edition (pre-release).
 > by Massimo Di Pierro (in English)
