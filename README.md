@@ -101,6 +101,32 @@ A different take on Git. All online.
 
 Five Things You Should Know About HTML5
 
+### [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/)
+> by Marijn Haverbeke
+
+This is a book about JavaScript, programming, and the wonders of the digital.
+
+### [The Modern JavaScript Tutorial](https://javascript.info/)
+> How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+
+It's a tutorial! It's an ebook. Maybe, it's a comprehensive reference volume on Javascript. Works for me.
+
+### [Human JavaScript](https://read.humanjavascript.com/)
+> by Henrik Joreteg
+
+Build powerfully simple browser apps.
+
+### [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/)
+> by Cody Lindley
+
+The contents of this book are for developers who are working in a codebase using modern React, Vue, or Angular code and find recent JavaScript language updates/proposals to be causing too much indirection. And or, developers who want to drill into memory the latest and most commonly used JavaScript updates.
+
+### [Single page apps in depth](https://singlepageappbook.com/)
+> a.k.a Mixu's single page app book  
+> by Mikito Takada
+
+This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices. (comment by the author)
+
 ## Unix -- and Linux
 
 ### [The Unix Workbench](https://seankross.com/the-unix-workbench/)
