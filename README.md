@@ -93,6 +93,18 @@ Practically everything you need to know about Git for version control. In Englis
 
 A different take on Git. All online.
 
+### [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+> Yihui Xie, Christophe Dervieux, Emily Riederer  
+> 2022-11-07
+
+R Markdown is a powerful tool for combining analysis and reporting into the same document. R Markdown has grown substantially from a package that supports a few output formats, to an extensive and diverse ecosystem that supports the creation of books, blogs, scientific articles, websites, and even resumes.
+
+### [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+> Yihui Xie, J. J. Allaire, Garrett Grolemund  
+> 2023-05-15
+
+The rmarkdown package (Allaire et al. 2023) was first created in early 2014. During the past four years, it has steadily evolved into a relatively complete ecosystem for authoring documents, so it is a good time for us to provide a definitive guide to this ecosystem now.
+
 ## Creating the Web
 > Maybe everyone should start coding by creating their own web page(s)
 
@@ -111,6 +123,11 @@ This is a book about JavaScript, programming, and the wonders of the digital.
 
 It's a tutorial! It's an ebook. Maybe, it's a comprehensive reference volume on Javascript. Works for me.
 
+### [The JavaScript Way](https://thejsway.net/)
+> by Baptiste Pesquet
+
+Master the language that powers the digital world.
+
 ### [Human JavaScript](https://read.humanjavascript.com/)
 > by Henrik Joreteg
 
@@ -126,6 +143,17 @@ The contents of this book are for developers who are working in a codebase using
 > by Mikito Takada
 
 This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices. (comment by the author)
+
+### [Learn CSS Layout](https://book.mixu.net/css/)
+> the pedantic way  
+> by Mikito Takada
+
+CSS is a system based on rules. I wrote this set of chapters to describe those rules. It's long-form writing, but not book-length. I don't think I'd want to write a full book about CSS, but writing about CSS layout has been useful. My approach is pedantic.
+
+### [DOM Enlightenment](https://domenlightenment.com/)
+> by Cody Lindley
+
+With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by scripting the Document Object Model (DOM) without a DOM library.
 
 ## Unix -- and Linux
 
