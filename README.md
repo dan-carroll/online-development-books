@@ -153,6 +153,17 @@ Build powerfully simple browser apps.
 
 The contents of this book are for developers who are working in a codebase using modern React, Vue, or Angular code and find recent JavaScript language updates/proposals to be causing too much indirection. And or, developers who want to drill into memory the latest and most commonly used JavaScript updates.
 
+### [Exploring ES6]()
+> by Axel Rauschmayer
+
+This book not only tells you how ES6 works, it also tells you why it works the way it does.
+
+### [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
+> by Gerd Wagner  
+> 2021-06-02
+
+An incremental in-depth tutorial about building front-end web applications with plain JavaScript, not using any third-party library or framework, for theory-underpinned and example-based learning by doing it yourself.
+
 ### [Single page apps in depth](https://singlepageappbook.com/)
 > a.k.a Mixu's single page app book  
 > by Mikito Takada
