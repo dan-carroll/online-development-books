@@ -35,6 +35,12 @@ A great place to start in learning the Python programming language, or just to l
 ### [Python for Everybody - the Book](https://www.py4e.com/book)
 > Details about the book, along with many translations.
 
+### [Python Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/python)
+> by Jason Cannon  
+> **Published on:** January 27, 2016
+
+Python Succintly? Yes! Just the basics. Ideal for a quick brush up or to answer specific questions on Variables and Strings; Numbers, Math, and Comments; Booleans and Conditionals; Functions; Lists; Dictionaries; Tuples; File I/O; and Modules. Great if you need a refresher on one of these topics.
+
 ### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 > by [Al Sweigart](https://alsweigart.com/)
 
