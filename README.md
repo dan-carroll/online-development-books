@@ -112,6 +112,12 @@ Practically everything you need to know about Git for version control. In Englis
 
 A different take on Git. All online.
 
+### [GitHub Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/github-succinctly)
+> by Joseph D. Booth  
+> **Published on:** July 13, 2016
+
+GitHub offers unparalleled access for developers to work on projects together, bridging geographical divides to bring teams together. Whether you are an individual developer looking to explore new projects, post your own, or provide your company with a safe place to work, Joseph D. Booth’s GitHub Succinctly will help you get started.
+
 ### [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 > Yihui Xie, Christophe Dervieux, Emily Riederer  
 > 2022-11-07
