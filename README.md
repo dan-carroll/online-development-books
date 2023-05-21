@@ -172,6 +172,22 @@ Build powerfully simple browser apps.
 
 jQuery Succinctly was written to express, in short-order, the concepts essential to intermediate and advanced jQuery development. Its purpose is to instill in you, the reader, practices that jQuery developers take as common knowledge. Each chapter contains concepts essential to becoming a seasoned jQuery developer.
 
+### [jQuery Fundamentals](http://jqfundamentals.com/)
+> by [Bocoup](https://github.com/bocoup)  
+
+jQuery Fundamentals is designed to get you comfortable working through common problems you'll be called upon to solve using jQuery. To get the most out of this site, you'll want to read the content and try the various interactive examples. Each chapter will cover a concept and give you a chance to try example code related to the concept.
+
+Is it a book? It has chapters! It operates as a series of interactive tutorials. So have some fun.
+
+Or [go read the original book](#jquery-fundamentals-legacy).
+
+### [jQuery Fundamentals, legacy](http://jqfundamentals.com/legacy/)
+> by [Rebecca Murphey](https://rmurphey.com/)  
+> Copyright © 2012  
+> [http://github.com/rmurphey/jqfundamentals](http://github.com/rmurphey/jqfundamentals)
+
+jQuery is fast becoming a must-have skill for front-end developers. The purpose of this book is to provide an overview of the jQuery JavaScript library; when you're done with the book, you should be able to complete basic tasks using jQuery, and have a solid basis from which to continue your learning. This book was designed as material to be used in a classroom setting, but you may find it useful for individual study.
+
 ### [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/)
 > by Cody Lindley
 
