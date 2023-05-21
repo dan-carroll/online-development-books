@@ -166,6 +166,12 @@ Master the language that powers the digital world.
 
 Build powerfully simple browser apps.
 
+### [jQuery Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/jquery)
+> by Cody Lindley  
+> Published on: July 7, 2014
+
+jQuery Succinctly was written to express, in short-order, the concepts essential to intermediate and advanced jQuery development. Its purpose is to instill in you, the reader, practices that jQuery developers take as common knowledge. Each chapter contains concepts essential to becoming a seasoned jQuery developer.
+
 ### [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/)
 > by Cody Lindley
 
