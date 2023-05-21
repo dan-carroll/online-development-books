@@ -118,15 +118,21 @@ A different take on Git. All online.
 
 GitHub offers unparalleled access for developers to work on projects together, bridging geographical divides to bring teams together. Whether you are an individual developer looking to explore new projects, post your own, or provide your company with a safe place to work, Joseph D. Booth’s GitHub Succinctly will help you get started.
 
+### [Gulp Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/gulp-succinctly/go-gulp)
+> by Kris van der Mast  
+> **Published on:** June 22, 2016
+
+Gulp is an easy-to learn, easy-to-use JavaScript task runner that has become an industry standard. This book offers an entry to Gulp for experienced developers. Author Kris van der Mast offers practical examples and clear descriptions, making Gulp Succinctly the perfect entry point for developers interested in Gulp.
+
 ### [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 > Yihui Xie, Christophe Dervieux, Emily Riederer  
-> 2022-11-07
+> **Published on:** 2022-11-07
 
 R Markdown is a powerful tool for combining analysis and reporting into the same document. R Markdown has grown substantially from a package that supports a few output formats, to an extensive and diverse ecosystem that supports the creation of books, blogs, scientific articles, websites, and even resumes.
 
 ### [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 > Yihui Xie, J. J. Allaire, Garrett Grolemund  
-> 2023-05-15
+> **Published on:** 2023-05-15
 
 The rmarkdown package (Allaire et al. 2023) was first created in early 2014. During the past four years, it has steadily evolved into a relatively complete ecosystem for authoring documents, so it is a good time for us to provide a definitive guide to this ecosystem now.
 
@@ -172,7 +178,7 @@ This book not only tells you how ES6 works, it also tells you why it works the w
 
 ### [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
 > by Gerd Wagner  
-> 2021-06-02
+> **Published on:** 2021-06-02
 
 An incremental in-depth tutorial about building front-end web applications with plain JavaScript, not using any third-party library or framework, for theory-underpinned and example-based learning by doing it yourself.
 
