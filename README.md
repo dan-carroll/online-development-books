@@ -12,6 +12,8 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
  <a  rel="noopener" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
  <a rel="noopener" href="#creating-the-web">Creating the Web</a> | 
  <a rel="noopener" href="#java-book-list">Java Books</a> | 
+ <a rel="noopener" href="#c-and-c">C and C++</a> | 
+ <a rel="noopener" href="#computer-science">Computer Science</a> | 
  <a rel="noopener" href="#data-science">Data Science</a> | 
  <a rel="noopener" href="#toolbox-books">Toolbox Books</a> | 
  <a rel="noopener" href="#unix-and-linux">Unix and Linux</a>
@@ -215,7 +217,27 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 
 Build your own Web search engine — including a crawler, indexer, and search interface — while learning about data structures and algorithms in Java.
 
+## C and C++
+
+<p align="center">Back to the <a href="#top">Top</a></p>
+
+### [Think OS: A Brief Introduction to Operating Systems](https://greenteapress.com/thinkos/html/index.html)
+> by Allen B. Downey
+
+An introduction to Operating Systems for programmers using the C programming language.
+
+## Computer Science
+
+<p align="center">Back to the <a href="#top">Top</a></p>
+
+### [The Little Book of Semaphores](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
+> by Allen B. Downey
+
+Learn about software synchronization by solving a series of puzzles.
+
 ## Data Science
+> The study of data to extract meaningful insights for business.  
+> Or, an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured, and unstructured data. 
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
