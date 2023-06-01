@@ -221,6 +221,11 @@ Build your own Web search engine — including a crawler, indexer, and search in
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
+### [Think C/C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf)
+> by Allen B. Downey
+
+An introduction to programming using the C++ programming language.
+
 ### [Think OS: A Brief Introduction to Operating Systems](https://greenteapress.com/thinkos/html/index.html)
 > by Allen B. Downey
 
