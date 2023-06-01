@@ -12,6 +12,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
  <a  rel="noopener" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
  <a rel="noopener" href="#creating-the-web">Creating the Web</a> | 
  <a rel="noopener" href="#java-book-list">Java Books</a> | 
+ <a rel="noopener" href="#data-science">Data Science</a> | 
  <a rel="noopener" href="#toolbox-books">Toolbox Books</a> | 
  <a rel="noopener" href="#unix-and-linux">Unix and Linux</a>
 </p>
@@ -206,6 +207,11 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 > ![GitHub OctoCat image](images/blacktocat.png) [ThinkJava2 repository on GitHub](https://github.com/ChrisMayfield/ThinkJava2)
 
 [Interactive Textbook](https://books.trinket.io/thinkjava2/index.html): An introduction to Java that covers input/output, control structures, object-oriented programming, and other essential topics. Trinket has made many of the examples and exercises in this open-licensed book interactive in collaboration with the authors.
+
+### [Think Data Structures: Algorithms and Information Retrieval in Java](https://greenteapress.com/thinkdast/html/index.html)
+> by Allen B. Downey
+
+Build your own Web search engine — including a crawler, indexer, and search interface — while learning about data structures and algorithms in Java.
 
 ## Data Science
 
