@@ -83,6 +83,16 @@ Teaches programming concepts with example games.
 
 Expand your abilities using the Pygame library to make games with graphics, animation, and sound.
 
+### [Think Python 2e](https://greenteapress.com/thinkpython2/html/index.html)
+> by Allen B. Downey
+
+An introduction to Python programming for beginners.
+
+### [Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/)
+> by Allen B. Downey
+
+An introduction to physical modeling using a computational approach.
+
 ## Not Just Kid Stuff
 > Game Play, and Coding, Is Not Just Kid Stuff
 
