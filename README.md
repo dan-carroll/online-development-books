@@ -88,6 +88,11 @@ Expand your abilities using the Pygame library to make games with graphics, anim
 
 An introduction to Python programming for beginners.
 
+### [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/)
+> by Allen B. Downey
+
+An introduction to data structures organized around a motivating example: building a search engine.
+
 ### [Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/)
 > by Allen B. Downey
 
@@ -201,6 +206,39 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 > ![GitHub OctoCat image](images/blacktocat.png) [ThinkJava2 repository on GitHub](https://github.com/ChrisMayfield/ThinkJava2)
 
 [Interactive Textbook](https://books.trinket.io/thinkjava2/index.html): An introduction to Java that covers input/output, control structures, object-oriented programming, and other essential topics. Trinket has made many of the examples and exercises in this open-licensed book interactive in collaboration with the authors.
+
+## Data Science
+
+### [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
+> Data Science in Python  
+> by Allen B. Downey
+
+An introduction to data science for people with no programming experience.
+
+### [Think Bayes 2e: Bayesian Statistics in Python](https://allendowney.github.io/ThinkBayes2/)
+> Bayesian Statistics Made Simple by Allen B. Downey
+
+An introduction to Bayesian statistics using computational methods.
+
+### [Think Stats, 2e: Exploratory Data Analysis](https://greenteapress.com/thinkstats2/html/index.html)
+> by Allen B. Downey
+
+An introduction to exploratory data analysis.
+
+### [Astronomical Data in Python](https://allendowney.github.io/AstronomicalData/README.html)
+> by Allen B. Downey
+
+an introduction to tools and practices for working with astronomical data.
+
+### [Think DSP: Digital Signal Processing in Python](https://greenteapress.com/thinkdsp/html/index.html)
+> by Allen B. Downey
+
+An introduction to digital signal processing with applications to sound and image processing.
+
+### [Think Complexity 2e: Exploring Complexity Science with Python](https://greenteapress.com/complexity2/html/index.html)
+> by Allen B. Downey
+
+An introduction to complexity science, which includes small-world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models.
 
 ## Toolbox Books
 > Every programmer (developer) needs a toolbox.
