@@ -202,6 +202,8 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 ## Java Book List
 > Java powers a large share of today’s digital world.
 
+<p align="center">Back to the <a href="#top">Top</a></p>
+
 ### [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/thinkjava7/html/)
 > Second Edition by Allen B. Downey & Chris Mayfield  
 > ![GitHub OctoCat image](images/blacktocat.png) [ThinkJava2 repository on GitHub](https://github.com/ChrisMayfield/ThinkJava2)
@@ -214,6 +216,8 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 Build your own Web search engine — including a crawler, indexer, and search interface — while learning about data structures and algorithms in Java.
 
 ## Data Science
+
+<p align="center">Back to the <a href="#top">Top</a></p>
 
 ### [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
 > Data Science in Python  
