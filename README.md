@@ -31,7 +31,7 @@ I have utilized the [web2py framework](http://www.web2py.com/) in numerous proje
 > Exploring Data Using Python 3  
 > by Dr. Charles R. Severance
 
-Interactive Textbook: A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the web2py reference manual.
+[Interactive Textbook](https://books.trinket.io/pfe/index.html): A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the web2py reference manual.
 
 ### [Python for Everybody - the Book](https://www.py4e.com/book)
 > Details about the book, along with many translations.
@@ -186,10 +186,11 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 ## Java Book List
 > Java powers a large share of today’s digital world.
 
-### Think Java: How to Think Like a Computer Scientist
+### [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/thinkjava7/html/)
+> Second Edition
 > by Allen B. Downey & Chris Mayfield
 
-Interactive Textbook: An introduction to Java that covers input/output, control structures, object-oriented programming, and other essential topics. Trinket has made many of the examples and exercises in this open-licensed book interactive in collaboration with the authors.
+[Interactive Textbook](https://books.trinket.io/thinkjava2/index.html): An introduction to Java that covers input/output, control structures, object-oriented programming, and other essential topics. Trinket has made many of the examples and exercises in this open-licensed book interactive in collaboration with the authors.
 
 ## Toolbox Books
 > Every programmer (developer) needs a toolbox.
