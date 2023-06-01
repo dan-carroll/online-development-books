@@ -10,14 +10,15 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
 <p align="center">
 <a rel="noopener" href="#python-book-list">Python Books</a> | 
  <a  rel="noopener" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
- <a rel="noopener" href="#toolbox-books">Toolbox Books</a> | 
  <a rel="noopener" href="#creating-the-web">Creating the Web</a> | 
+ <a rel="noopener" href="#java-book-list">Java Books</a> | 
+ <a rel="noopener" href="#toolbox-books">Toolbox Books</a> | 
  <a rel="noopener" href="#unix-and-linux">Unix and Linux</a>
 </p>
 <hr>
 
 ## Python Book List
-> Probably the Best Way to Learn to Code
+> Possibly the Best Way to Learn to Code
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
@@ -30,7 +31,7 @@ I have utilized the [web2py framework](http://www.web2py.com/) in numerous proje
 > Exploring Data Using Python 3  
 > by Dr. Charles R. Severance
 
-A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the web2py reference manual.
+Interactive Textbook: A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the web2py reference manual.
 
 ### [Python for Everybody - the Book](https://www.py4e.com/book)
 > Details about the book, along with many translations.
@@ -96,45 +97,6 @@ Learn to Code by Programming Robots in Minecraft! You've mined for diamonds, cra
 > by [Al Sweigart](https://alsweigart.com/)
 
 Teaches you how to program in Scratch, the graphical programming language from MIT for ages 8 to 16. Actually, that should be from 8 to 108.
-
-## Toolbox Books
-> Every programmer (developer) needs a toolbox.
-
-<p align="center">Back to the <a href="#top">Top</a></p>
-
-### [Pro Git, 2nd edition (2014)](https://git-scm.com/book/en/v2), updated
-> by Scott Chacon and Ben Straub
-
-Practically everything you need to know about Git for version control. In English, but with many translations.
-
-### [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)
-> from the makers of [Tower](https://www.git-tower.com/learn/git/ebook)
-
-A different take on Git. All online.
-
-### [GitHub Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/github-succinctly)
-> by Joseph D. Booth  
-> **Published on:** July 13, 2016
-
-GitHub offers unparalleled access for developers to work on projects together, bridging geographical divides to bring teams together. Whether you are an individual developer looking to explore new projects, post your own, or provide your company with a safe place to work, Joseph D. Booth’s GitHub Succinctly will help you get started.
-
-### [Gulp Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/gulp-succinctly/go-gulp)
-> by Kris van der Mast  
-> **Published on:** June 22, 2016
-
-Gulp is an easy-to learn, easy-to-use JavaScript task runner that has become an industry standard. This book offers an entry to Gulp for experienced developers. Author Kris van der Mast offers practical examples and clear descriptions, making Gulp Succinctly the perfect entry point for developers interested in Gulp.
-
-### [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
-> Yihui Xie, Christophe Dervieux, Emily Riederer  
-> **Published on:** 2022-11-07
-
-R Markdown is a powerful tool for combining analysis and reporting into the same document. R Markdown has grown substantially from a package that supports a few output formats, to an extensive and diverse ecosystem that supports the creation of books, blogs, scientific articles, websites, and even resumes.
-
-### [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
-> Yihui Xie, J. J. Allaire, Garrett Grolemund  
-> **Published on:** 2023-05-15
-
-The rmarkdown package (Allaire et al. 2023) was first created in early 2014. During the past four years, it has steadily evolved into a relatively complete ecosystem for authoring documents, so it is a good time for us to provide a definitive guide to this ecosystem now.
 
 ## Creating the Web
 > Maybe everyone should start coding by creating their own web page(s)
@@ -220,6 +182,53 @@ CSS is a system based on rules. I wrote this set of chapters to describe those r
 > by Cody Lindley
 
 With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by scripting the Document Object Model (DOM) without a DOM library.
+
+## Java Book List
+> Java powers a large share of today’s digital world.
+
+### Think Java: How to Think Like a Computer Scientist
+> by Allen B. Downey & Chris Mayfield
+
+Interactive Textbook: An introduction to Java that covers input/output, control structures, object-oriented programming, and other essential topics. Trinket has made many of the examples and exercises in this open-licensed book interactive in collaboration with the authors.
+
+## Toolbox Books
+> Every programmer (developer) needs a toolbox.
+
+<p align="center">Back to the <a href="#top">Top</a></p>
+
+### [Pro Git, 2nd edition (2014)](https://git-scm.com/book/en/v2), updated
+> by Scott Chacon and Ben Straub
+
+Practically everything you need to know about Git for version control. In English, but with many translations.
+
+### [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)
+> from the makers of [Tower](https://www.git-tower.com/learn/git/ebook)
+
+A different take on Git. All online.
+
+### [GitHub Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/github-succinctly)
+> by Joseph D. Booth  
+> **Published on:** July 13, 2016
+
+GitHub offers unparalleled access for developers to work on projects together, bridging geographical divides to bring teams together. Whether you are an individual developer looking to explore new projects, post your own, or provide your company with a safe place to work, Joseph D. Booth’s GitHub Succinctly will help you get started.
+
+### [Gulp Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/gulp-succinctly/go-gulp)
+> by Kris van der Mast  
+> **Published on:** June 22, 2016
+
+Gulp is an easy-to learn, easy-to-use JavaScript task runner that has become an industry standard. This book offers an entry to Gulp for experienced developers. Author Kris van der Mast offers practical examples and clear descriptions, making Gulp Succinctly the perfect entry point for developers interested in Gulp.
+
+### [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+> Yihui Xie, Christophe Dervieux, Emily Riederer  
+> **Published on:** 2022-11-07
+
+R Markdown is a powerful tool for combining analysis and reporting into the same document. R Markdown has grown substantially from a package that supports a few output formats, to an extensive and diverse ecosystem that supports the creation of books, blogs, scientific articles, websites, and even resumes.
+
+### [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+> Yihui Xie, J. J. Allaire, Garrett Grolemund  
+> **Published on:** 2023-05-15
+
+The rmarkdown package (Allaire et al. 2023) was first created in early 2014. During the past four years, it has steadily evolved into a relatively complete ecosystem for authoring documents, so it is a good time for us to provide a definitive guide to this ecosystem now.
 
 ## Unix and Linux
 
