@@ -188,7 +188,7 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 
 ### [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/thinkjava7/html/)
 > Second Edition by Allen B. Downey & Chris Mayfield  
-> <svg class="svg-icon" style="color: white; width: 16px;"><use xlink:href="{{ '/assets/icn/minima-social-icons.svg#github' | relative_url }}"></use></svg> [ThinkJava2 repository on GitHub](https://github.com/ChrisMayfield/ThinkJava2)
+> <svg class="svg-icon" style="color: inherit; width: 16px;"><use xlink:href="{{ '/assets/icn/minima-social-icons.svg#github' | relative_url }}"></use></svg> [ThinkJava2 repository on GitHub](https://github.com/ChrisMayfield/ThinkJava2)
 
 [Interactive Textbook](https://books.trinket.io/thinkjava2/index.html): An introduction to Java that covers input/output, control structures, object-oriented programming, and other essential topics. Trinket has made many of the examples and exercises in this open-licensed book interactive in collaboration with the authors.
 
