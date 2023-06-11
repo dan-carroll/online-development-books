@@ -223,6 +223,8 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 
 ## Web Apps and Frameworks
 
+<p align="center">Back to the <a href="#top">Top</a></p>
+
 ### [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
 > by Gerd Wagner  
 > **Published on:** 2021-06-02
