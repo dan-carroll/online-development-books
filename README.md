@@ -11,6 +11,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
 <a rel="noopener" href="#python-book-list">Python Books</a> | 
  <a  rel="noopener" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
  <a rel="noopener" href="#creating-the-web">Creating the Web</a> | 
+ <a rel="noopener" href="#web-apps-and-frameworks">Web Apps and Frameworks</a> | 
  <a rel="noopener" href="#nodejs-book-list">Node.js Books</a> | 
  <a rel="noopener" href="#java-book-list">Java Books</a> | 
  <a rel="noopener" href="#c-and-c">C and C++</a> | 
