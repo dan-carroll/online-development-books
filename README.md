@@ -127,6 +127,11 @@ Teaches you how to program in Scratch, the graphical programming language from M
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
+### [The HTML Handbook – Learn HTML for Beginners](https://www.freecodecamp.org/news/the-html-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JULY 23, 2019
+
+HTML, a shorthand for Hyper Text Markup Language, is one of the most fundamental building blocks of the Web. This book will help you quickly learn HTML and get familiar with the advanced HTML topics.
+
 ### [Dive into HTML5](https://diveinto.html5doctor.com/)
 > by Mark Pilgrim and the HTML5 Doctor web community
 
@@ -147,10 +152,10 @@ PHP is an incredibly popular programming language. This book is a perfect introd
 
 What follows is a full-length book on how to create a successful blog. The hard part of blogging is doing it sustainably. How do you blog in such a way that you can publish consistently? How do you become a household name in your field? How do you hold your audience's attention over time?
 
-### [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
-> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 13, 2020
+### [How to Create Your First Hugo Blog: a Practical Guide](https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JANUARY 8, 2020
 
-React is one of the most popular JavaScript frameworks ever created, and I believe that it's one of the best tools out there. The goal of this handbook is to provide a starter guide to learning React.
+Hugo is a great tool to use if you want to start a blog.
 
 ### [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/)
 > by Marijn Haverbeke
@@ -204,6 +209,19 @@ The contents of this book are for developers who are working in a codebase using
 
 This book not only tells you how ES6 works, it also tells you why it works the way it does.
 
+### [Learn CSS Layout](https://book.mixu.net/css/)
+> the pedantic way  
+> by Mikito Takada
+
+CSS is a system based on rules. I wrote this set of chapters to describe those rules. It's long-form writing, but not book-length. I don't think I'd want to write a full book about CSS, but writing about CSS layout has been useful. My approach is pedantic.
+
+### [DOM Enlightenment](https://domenlightenment.com/)
+> by Cody Lindley
+
+With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by scripting the Document Object Model (DOM) without a DOM library.
+
+## Web Apps and Frameworks
+
 ### [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
 > by Gerd Wagner  
 > **Published on:** 2021-06-02
@@ -216,16 +234,20 @@ An incremental in-depth tutorial about building front-end web applications with 
 
 This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices. (comment by the author)
 
-### [Learn CSS Layout](https://book.mixu.net/css/)
-> the pedantic way  
-> by Mikito Takada
+### [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 13, 2020
 
-CSS is a system based on rules. I wrote this set of chapters to describe those rules. It's long-form writing, but not book-length. I don't think I'd want to write a full book about CSS, but writing about CSS layout has been useful. My approach is pedantic.
+React is one of the most popular JavaScript frameworks ever created, and I believe that it's one of the best tools out there. The goal of this handbook is to provide a starter guide to learning React.
 
-### [DOM Enlightenment](https://domenlightenment.com/)
-> by Cody Lindley
+### [The Next.js Handbook – Learn Next.js for Beginners](https://www.freecodecamp.org/news/the-next-js-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 19, 2019
 
-With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by scripting the Document Object Model (DOM) without a DOM library.
+"I wrote this tutorial to help you quickly learn Next.js and get familiar with how it works. It's ideal for you if you have zero to little knowledge of Next.js, you have used React in the past, and you are looking forward to diving more into the React ecosystem, in particular server-side rendering. I find Next.js is an awesome tool to create Web Applications, and at the end of this post I hope you'll be as excited about it as I am. And I hope it will help you learn Next.js!" - Flavio Copes
+
+### [The Svelte Handbook – Learn Svelte for Beginners](https://www.freecodecamp.org/news/the-svelte-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), OCTOBER 22, 2019
+
+I wrote this book to help you quickly learn Svelte and get familiar with how it works. The ideal reader of the book has zero knowledge of Svelte, has maybe used Vue or React, but is looking for something more, or a new approach to things. Svelte is very much worth looking into, because it provides a refreshing point of view and several unique features to the Web.
 
 ## Node.js Book List
 > Node.js is an amazing tool for building networking services and applications.
@@ -236,6 +258,11 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 18, 2022
 
 Express is a Web Framework built upon Node.js. Node.js is an amazing tool for building networking services and applications. Express builds on top of its features to provide easy to use functionality that satisfies the needs of the Web Server use-case. It's Open Source, free, easy to extend, and very performant.
+
+### [The Deno Handbook: A TypeScript Runtime Tutorial with Code Examples](https://www.freecodecamp.org/news/the-deno-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MAY 12, 2020
+
+In this post I want to get you up to speed with Deno quickly. We'll compare it with Node.js, and build your first REST API with it. If you are familiar with Node.js, the popular server-side JavaScript ecosystem, then Deno is just like Node. Except deeply improved in many ways. After you use Deno and learn to appreciate its features, Node.js will look like something *old*.
 
 ## Java Book List
 > Java powers a large share of today’s digital world.
@@ -256,6 +283,11 @@ Build your own Web search engine — including a crawler, indexer, and search in
 ## C and C++
 
 <p align="center">Back to the <a href="#top">Top</a></p>
+
+### [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 9, 2020
+
+This handbook does not try to cover everything under the sun related to C. It focuses on the core of the language, trying to simplify the more complex topics. C is probably the most widely known programming language. It is used as the reference language for computer science courses all over the world, and it's probably the language that people learn the most in school along with Python and Java.
 
 ### [Think C/C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf)
 > by Allen B. Downey
@@ -311,7 +343,7 @@ An introduction to exploratory data analysis.
 ### [Astronomical Data in Python](https://allendowney.github.io/AstronomicalData/README.html)
 > by Allen B. Downey
 
-an introduction to tools and practices for working with astronomical data.
+An introduction to tools and practices for working with astronomical data.
 
 ### [Think DSP: Digital Signal Processing in Python](https://greenteapress.com/thinkdsp/html/index.html)
 > by Allen B. Downey
@@ -365,6 +397,11 @@ The rmarkdown package (Allaire et al. 2023) was first created in early 2014. Dur
 ## Unix and Linux
 
 <p align="center">Back to the <a href="#top">Top</a></p>
+
+### [The Linux Command Handbook – Learn Linux Commands for Beginners](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 3, 2020
+
+This Linux Command Handbook will cover 60 core Bash commands you will need as a developer. Each command includes example code and tips for when to use it.
 
 ### [The Unix Workbench](https://seankross.com/the-unix-workbench/)
 > by Sean Kross
