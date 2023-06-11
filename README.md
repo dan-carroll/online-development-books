@@ -11,6 +11,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
 <a rel="noopener" href="#python-book-list">Python Books</a> | 
  <a  rel="noopener" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
  <a rel="noopener" href="#creating-the-web">Creating the Web</a> | 
+ <a rel="noopener" href="#nodejs-book-list">Node.js Books</a> | 
  <a rel="noopener" href="#java-book-list">Java Books</a> | 
  <a rel="noopener" href="#c-and-c">C and C++</a> | 
  <a rel="noopener" href="#computer-science">Computer Science</a> | 
@@ -208,6 +209,8 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 
 ## Node.js Book List
 > Node.js is an amazing tool for building networking services and applications.
+
+<p align="center">Back to the <a href="#top">Top</a></p>
 
 ### [The Express + Node.js Handbook – Learn the Express JavaScript Framework for Beginners (2022 Edition)](https://www.freecodecamp.org/news/the-express-handbook/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 18, 2022
