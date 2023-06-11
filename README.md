@@ -31,6 +31,11 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
 
 I have utilized the [web2py framework](http://www.web2py.com/) in numerous projects over the years. It is a great way to learn to create fully functional web applications of any complexity while also learning Python. I totally consumed the fifth edition of this book and am currently delving into the latest (sixth) edition while getting up to speed on a new project. There are differences (updates) to the book and framework, so here I go again.
 
+### [The Python Handbook – Learn Python for Beginners](https://www.freecodecamp.org/news/the-python-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 10, 2021
+
+The Python Handbook follows the 80/20 rule: learn 80% of the topic in 20% of the time. This book does not try to cover everything under the sun related to Python. It focuses on the core of the language, trying to simplify the more complex topics.
+
 ### [Python for Everybody](https://www.py4e.com/html3/)
 > Exploring Data Using Python 3  
 > by Dr. Charles R. Severance
@@ -131,6 +136,21 @@ Five Things You Should Know About HTML5
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 1, 2020
 
 JavaScript is one of the most popular programming languages in the world.
+
+### [The PHP Handbook – Learn PHP for Beginners](https://www.freecodecamp.org/news/the-php-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JULY 7, 2022
+
+PHP is an incredibly popular programming language. This book is a perfect introduction if you’re new to the language. It’s also perfect if you’ve done “some PHP” in the past and you want to get back to it.
+
+### [How to Start a Blog](https://www.freecodecamp.org/news/how-to-start-a-blog-book/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), OCTOBER 11, 2021
+
+What follows is a full-length book on how to create a successful blog. The hard part of blogging is doing it sustainably. How do you blog in such a way that you can publish consistently? How do you become a household name in your field? How do you hold your audience's attention over time?
+
+### [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 13, 2020
+
+React is one of the most popular JavaScript frameworks ever created, and I believe that it's one of the best tools out there. The goal of this handbook is to provide a starter guide to learning React.
 
 ### [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/)
 > by Marijn Haverbeke
