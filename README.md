@@ -126,6 +126,11 @@ Teaches you how to program in Scratch, the graphical programming language from M
 
 Five Things You Should Know About HTML5
 
+### [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 1, 2020
+
+JavaScript is one of the most popular programming languages in the world.
+
 ### [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/)
 > by Marijn Haverbeke
 
@@ -201,6 +206,14 @@ CSS is a system based on rules. I wrote this set of chapters to describe those r
 
 With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by scripting the Document Object Model (DOM) without a DOM library.
 
+## Node.js Book List
+> Node.js is an amazing tool for building networking services and applications.
+
+### [The Express + Node.js Handbook – Learn the Express JavaScript Framework for Beginners (2022 Edition)](https://www.freecodecamp.org/news/the-express-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 18, 2022
+
+Express is a Web Framework built upon Node.js. Node.js is an amazing tool for building networking services and applications. Express builds on top of its features to provide easy to use functionality that satisfies the needs of the Web Server use-case. It's Open Source, free, easy to extend, and very performant.
+
 ## Java Book List
 > Java powers a large share of today’s digital world.
 
@@ -230,6 +243,16 @@ An introduction to programming using the C++ programming language.
 > by Allen B. Downey
 
 An introduction to Operating Systems for programmers using the C programming language.
+
+### [The Swift Handbook – Learn Swift for Beginners](https://www.freecodecamp.org/news/the-swift-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), OCTOBER 24, 2022
+
+The goal of this book is to get you up and running with Swift, starting from zero. It also contains a series of awesome examples and tutorials to expand your Swift and iOS knowledge.
+
+### [The Go Handbook – Learn Golang for Beginners](https://www.freecodecamp.org/news/go-beginners-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), OCTOBER 18, 2022
+
+Golang is an awesome, simple, modern, and fast programming language. It’s compiled, open source, and strongly typed. Go was meant to be a replacement for C and C++ codebases. It aims to make some things simpler like concurrency and memory management, with garbage collection.
 
 ## Computer Science
 
