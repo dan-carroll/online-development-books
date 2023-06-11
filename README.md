@@ -1,6 +1,6 @@
 # Collection of Development Books Available to Read Online
 
-This is a simple list of online development books that are available to read online. This repository was kicked off by utilizing the [Simple Progressive Web App (PWA) template](https://github.com/nikkifurls/simplepwa) by [nikkifurls](https://github.com/nikkifurls).
+This is a simple list of online development books that are available to read online. Also, some books are more of the handbook size. Plus, I have included some tutorials written by book authors. This repository was kicked off by utilizing the [Simple Progressive Web App (PWA) template](https://github.com/nikkifurls/simplepwa) by [nikkifurls](https://github.com/nikkifurls).
 
 <p align="center" id="top">
 <img src="images/book_stack.jpg" width="50%" height="50%" alt="book stack image">
@@ -26,11 +26,6 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
 > Possibly the Best Way to Learn to Code
 
 <p align="center">Back to the <a href="#top">Top</a></p>
-
-### [web2py Complete Reference Manual](http://www.web2py.com/book), 6th Edition (pre-release).
-> by Massimo Di Pierro (in English)
-
-I have utilized the [web2py framework](http://www.web2py.com/) in numerous projects over the years. It is a great way to learn to create fully functional web applications of any complexity while also learning Python. I totally consumed the fifth edition of this book and am currently delving into the latest (sixth) edition while getting up to speed on a new project. There are differences (updates) to the book and framework, so here I go again.
 
 ### [The Python Handbook – Learn Python for Beginners](https://www.freecodecamp.org/news/the-python-handbook/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 10, 2021
@@ -200,15 +195,25 @@ Or [go read the original book](#jquery-fundamentals-legacy).
 
 jQuery is fast becoming a must-have skill for front-end developers. The purpose of this book is to provide an overview of the jQuery JavaScript library; when you're done with the book, you should be able to complete basic tasks using jQuery, and have a solid basis from which to continue your learning. This book was designed as material to be used in a classroom setting, but you may find it useful for individual study.
 
+### [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://www.freecodecamp.org/news/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), FEBRUARY 13, 2019
+
+This article is meant to help you move from pre-ES6 knowledge of JavaScript and get you quickly up to speed with the most recent advancements of the language. JavaScript today is in the privileged position to be the only language that can run natively in the browser, and is highly integrated and optimized for that.
+
 ### [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/)
 > by Cody Lindley
 
 The contents of this book are for developers who are working in a codebase using modern React, Vue, or Angular code and find recent JavaScript language updates/proposals to be causing too much indirection. And or, developers who want to drill into memory the latest and most commonly used JavaScript updates.
 
-### [Exploring ES6]()
+### [Exploring ES6](https://exploringjs.com/es6/)
 > by Axel Rauschmayer
 
-This book not only tells you how ES6 works, it also tells you why it works the way it does.
+Upgrade to the next version of JavaScript. This book not only tells you how ES6 works, it also tells you why it works the way it does.
+
+### [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), APRIL 24, 2019
+
+This article is to help you quickly learn CSS and get familiar with advanced CSS topics.
 
 ### [Learn CSS Layout](https://book.mixu.net/css/)
 > the pedantic way  
@@ -221,6 +226,11 @@ CSS is a system based on rules. I wrote this set of chapters to describe those r
 
 With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by scripting the Document Object Model (DOM) without a DOM library.
 
+### [A quick but complete guide to IndexedDB and storing data in browsers](https://www.freecodecamp.org/news/a-quick-but-complete-guide-to-indexeddb-25f030425501/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JUNE 1, 2019
+
+Introduction (Tutorial) to IndexedDB: IndexedDB is one of the storage capabilities introduced into browsers over the years. It's a key/value store (a noSQL database) considered to be the definitive solution for storing data in browsers.
+
 ## Web Apps and Frameworks
 
 <p align="center">Back to the <a href="#top">Top</a></p>
@@ -231,11 +241,21 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 
 An incremental in-depth tutorial about building front-end web applications with plain JavaScript, not using any third-party library or framework, for theory-underpinned and example-based learning by doing it yourself.
 
+### [web2py Complete Reference Manual](http://www.web2py.com/book), 6th Edition (pre-release).
+> by Massimo Di Pierro (in English)
+
+I have utilized the [web2py framework](http://www.web2py.com/) in numerous projects over the years. It is a great way to learn to create fully functional web applications of any complexity while also learning Python. I totally consumed the fifth edition of this book and am currently delving into the latest (sixth) edition while getting up to speed on a new project. There are differences (updates) to the book and framework, so here I go again.
+
 ### [Single page apps in depth](https://singlepageappbook.com/)
 > a.k.a Mixu's single page app book  
 > by Mikito Takada
 
 This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices. (comment by the author)
+
+### [The React Handbook – Learn React for Beginners](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JANUARY 8, 2019
+
+React is a JavaScript library that aims to simplify development of visual interfaces. The contents of this book will help you learn the basics of React.
 
 ### [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 13, 2020
@@ -256,6 +276,11 @@ I wrote this book to help you quickly learn Svelte and get familiar with how it 
 > Node.js is an amazing tool for building networking services and applications.
 
 <p align="center">Back to the <a href="#top">Top</a></p>
+
+### [The definitive Node.js handbook – Learn Node for Beginners](https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), SEPTEMBER 6, 2018
+
+This handbook is a getting started guide to Node.js, the server-side JavaScript runtime environment.
 
 ### [The Express + Node.js Handbook – Learn the Express JavaScript Framework for Beginners (2022 Edition)](https://www.freecodecamp.org/news/the-express-handbook/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 18, 2022
@@ -372,6 +397,11 @@ Practically everything you need to know about Git for version control. In Englis
 > from the makers of [Tower](https://www.git-tower.com/learn/git/ebook)
 
 A different take on Git. All online.
+
+### [How to make your first Pull Request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JULY 11, 2019
+
+Many tutorials exist about this topic but they make things overly complicated by assuming one has to contribute code to a project. What if they just need to edit a file, maybe the project README to fix a typo?
 
 ### [GitHub Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/github-succinctly)
 > by Joseph D. Booth  
