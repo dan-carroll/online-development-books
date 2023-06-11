@@ -241,6 +241,11 @@ Introduction (Tutorial) to IndexedDB: IndexedDB is one of the storage capabiliti
 
 An incremental in-depth tutorial about building front-end web applications with plain JavaScript, not using any third-party library or framework, for theory-underpinned and example-based learning by doing it yourself.
 
+### [A beginner’s introduction to Webpack](https://www.freecodecamp.org/news/a-beginners-introduction-to-webpack-2620415e46b3/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JUNE 13, 2018
+
+Tutorial: Webpack is a tool that lets you compile JavaScript modules. It’s also known as a module bundler. Given a large number of files, it generates a single file (or a few files) that run your app.
+
 ### [web2py Complete Reference Manual](http://www.web2py.com/book), 6th Edition (pre-release).
 > by Massimo Di Pierro (in English)
 
@@ -251,6 +256,11 @@ I have utilized the [web2py framework](http://www.web2py.com/) in numerous proje
 > by Mikito Takada
 
 This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices. (comment by the author)
+
+### [The Vue Handbook: a thorough introduction to Vue.js](JULY 5, 2018)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JULY 5, 2018
+
+Vue is a very popular JavaScript front-end framework, one that’s experiencing a huge amount of growth. It is simple, tiny (~24KB), and very performant. It feels different from all the other JavaScript front-end frameworks and view libraries. Let’s find out why.
 
 ### [The React Handbook – Learn React for Beginners](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JANUARY 8, 2019
