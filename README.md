@@ -410,7 +410,16 @@ This article is an Intro to GitHub
 > #### [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)  
 > > By [Vincent Driessen](https://nvie.com/about/), January 05, 2010  
 > >  
-> > If you are building software that is explicitly versioned, or if you need to support multiple versions of your software in the wild, then git-flow may still be as good of a fit to your team as it has been to people in the last 10 years.
+> > If you are building software that is explicitly versioned, or if you need to support multiple versions of your software in the wild, then git-flow may still be as good of a fit to your team as it has been to people in the last 10 years.  
+> >  
+> > If your team is doing continuous delivery of software, I would suggest to adopt a much simpler workflow (like GitHub flow) instead of trying to shoehorn *git-flow* into your team.  
+>  
+> #### [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)  
+> > Follow GitHub flow to collaborate on projects.  
+> >  
+> > GitHub flow is a lightweight, branch-based workflow. The GitHub flow is useful for everyone, not just developers. For example, here at GitHub, we use GitHub flow for our site policy, documentation, and roadmap.  
+> >  
+> And Git can be used to track all sorts of organizational, as well as personal, documents including presentations, spreadsheets, etc.
 
 ### [Pro Git, 2nd edition (2014)](https://git-scm.com/book/en/v2), updated
 > by Scott Chacon and Ben Straub
