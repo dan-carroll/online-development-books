@@ -398,6 +398,17 @@ An introduction to complexity science, which includes small-world graphs, scale-
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
+### [A developer’s introduction to GitHub](https://www.freecodecamp.org/news/a-developers-introduction-to-github-1034fa55c0db/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), FEBRUARY 28, 2018
+
+This article is an Intro to GitHub
+
+> GitHub is a website that hosts billions of lines of code, and it’s where millions of developers gather every day to collaborate on and report issues with open source software. In short, it’s a platform for software developers, and it’s built around Git.
+
+> #### [The complete Git guide](https://flaviocopes.com/git/)  
+> > by Flavio Copes, Updated Oct 09 2019
+
+
 ### [Pro Git, 2nd edition (2014)](https://git-scm.com/book/en/v2), updated
 > by Scott Chacon and Ben Straub
 
