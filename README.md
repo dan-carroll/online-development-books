@@ -407,7 +407,10 @@ This article is an Intro to GitHub
 
 > #### [The complete Git guide](https://flaviocopes.com/git/)  
 > > by Flavio Copes, Updated Oct 09 2019
-
+> #### [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)  
+> > By [Vincent Driessen](https://nvie.com/about/), January 05, 2010  
+  >  
+  > If you are building software that is explicitly versioned, or if you need to support multiple versions of your software in the wild, then git-flow may still be as good of a fit to your team as it has been to people in the last 10 years.
 
 ### [Pro Git, 2nd edition (2014)](https://git-scm.com/book/en/v2), updated
 > by Scott Chacon and Ben Straub
