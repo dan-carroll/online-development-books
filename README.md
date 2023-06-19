@@ -133,11 +133,6 @@ HTML, a shorthand for Hyper Text Markup Language, is one of the most fundamental
 
 Five Things You Should Know About HTML5
 
-### [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
-> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 1, 2020
-
-JavaScript is one of the most popular programming languages in the world.
-
 ### [The PHP Handbook – Learn PHP for Beginners](https://www.freecodecamp.org/news/the-php-handbook/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JULY 7, 2022
 
@@ -152,26 +147,6 @@ What follows is a full-length book on how to create a successful blog. The hard 
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JANUARY 8, 2020
 
 Hugo is a great tool to use if you want to start a blog.
-
-### [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/)
-> by Marijn Haverbeke
-
-This is a book about JavaScript, programming, and the wonders of the digital.
-
-### [The Modern JavaScript Tutorial](https://javascript.info/)
-> How it's done now. From the basics to advanced topics with simple, but detailed explanations.
-
-It's a tutorial! It's an ebook. Maybe, it's a comprehensive reference volume on Javascript. Works for me.
-
-### [The JavaScript Way](https://thejsway.net/)
-> by Baptiste Pesquet
-
-Master the language that powers the digital world.
-
-### [Human JavaScript](https://read.humanjavascript.com/)
-> by Henrik Joreteg
-
-Build powerfully simple browser apps.
 
 ### [jQuery Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/jquery)
 > by Cody Lindley  
@@ -194,21 +169,6 @@ Or [go read the original book](#jquery-fundamentals-legacy).
 > [http://github.com/rmurphey/jqfundamentals](http://github.com/rmurphey/jqfundamentals)
 
 jQuery is fast becoming a must-have skill for front-end developers. The purpose of this book is to provide an overview of the jQuery JavaScript library; when you're done with the book, you should be able to complete basic tasks using jQuery, and have a solid basis from which to continue your learning. This book was designed as material to be used in a classroom setting, but you may find it useful for individual study.
-
-### [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://www.freecodecamp.org/news/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e/)
-> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), FEBRUARY 13, 2019
-
-This article is meant to help you move from pre-ES6 knowledge of JavaScript and get you quickly up to speed with the most recent advancements of the language. JavaScript today is in the privileged position to be the only language that can run natively in the browser, and is highly integrated and optimized for that.
-
-### [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/)
-> by Cody Lindley
-
-The contents of this book are for developers who are working in a codebase using modern React, Vue, or Angular code and find recent JavaScript language updates/proposals to be causing too much indirection. And or, developers who want to drill into memory the latest and most commonly used JavaScript updates.
-
-### [Exploring ES6](https://exploringjs.com/es6/)
-> by Axel Rauschmayer
-
-Upgrade to the next version of JavaScript. This book not only tells you how ES6 works, it also tells you why it works the way it does.
 
 ### [The CSS Handbook: A Handy Guide to CSS for Developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), APRIL 24, 2019
@@ -282,6 +242,69 @@ React is one of the most popular JavaScript frameworks ever created, and I belie
 
 I wrote this book to help you quickly learn Svelte and get familiar with how it works. The ideal reader of the book has zero knowledge of Svelte, has maybe used Vue or React, but is looking for something more, or a new approach to things. Svelte is very much worth looking into, because it provides a refreshing point of view and several unique features to the Web.
 
+## JavaScript (Ecma Script)
+
+<p align="center">Back to the <a href="#top">Top</a></p>
+
+### [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 1, 2020
+
+JavaScript is one of the most popular programming languages in the world.
+
+### [Speaking JavaScript: An In-Depth Guide for Programmers](https://exploringjs.com/es5/toc.html)
+> by [Dr. Axel Rauschmayer](http://dr-axel.de/)
+
+This book covers JavaScript up to and including ECMAScript 5. For material on later ECMAScript versions, check out Axel’s other books.
+
+### [Exploring ES6](https://exploringjs.com/es6/index.html)
+> by [Dr. Axel Rauschmayer](http://dr-axel.de/)
+
+Upgrade to the next version of JavaScript. This book not only tells you how ES6 works, it also tells you why it works the way it does. The most comprehensive book on ECMAScript 6 (ECMAScript 2015).
+
+### [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/toc.html)
+> by [Dr. Axel Rauschmayer](http://dr-axel.de/)
+
+This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible. Covers all essential features of JavaScript, up to and including ES2022.
+
+### [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://www.freecodecamp.org/news/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), FEBRUARY 13, 2019
+
+This article is meant to help you move from pre-ES6 knowledge of JavaScript and get you quickly up to speed with the most recent advancements of the language. JavaScript today is in the privileged position to be the only language that can run natively in the browser, and is highly integrated and optimized for that.
+
+### [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/)
+> by Cody Lindley
+
+The contents of this book are for developers who are working in a codebase using modern React, Vue, or Angular code and find recent JavaScript language updates/proposals to be causing too much indirection. And or, developers who want to drill into memory the latest and most commonly used JavaScript updates.
+
+### [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/)
+> by Marijn Haverbeke
+
+This is a book about JavaScript, programming, and the wonders of the digital world.
+
+### [The Modern JavaScript Tutorial](https://javascript.info/)
+> How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+
+It's a tutorial! It's an ebook. Maybe, it's a comprehensive reference volume on Javascript. Works for me.
+
+### [The JavaScript Way](https://thejsway.net/)
+> by Baptiste Pesquet
+
+Master the language that powers the digital world.
+
+### [Human JavaScript](https://read.humanjavascript.com/)
+> by Henrik Joreteg
+
+Build powerfully simple browser apps.
+
+### [Deep JavaScript: Theory and Techniques](https://exploringjs.com/deep-js/toc.html)
+> by [Dr. Axel Rauschmayer](http://dr-axel.de/)
+
+This book dives deeply into JavaScript:
+
+- It teaches practical techniques for using the language better.
+- It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
+- It covers only the language (ignoring platform-specific features such as browser APIs) but not exhaustively. Instead, it focuses on a selection of important topics.
+
 ## Node.js Book List
 > Node.js is an amazing tool for building networking services and applications.
 
@@ -296,6 +319,21 @@ This handbook is a getting started guide to Node.js, the server-side JavaScript 
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 18, 2022
 
 Express is a Web Framework built upon Node.js. Node.js is an amazing tool for building networking services and applications. Express builds on top of its features to provide easy to use functionality that satisfies the needs of the Web Server use-case. It's Open Source, free, easy to extend, and very performant.
+
+### [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)
+> by [Dr. Axel Rauschmayer](http://dr-axel.de/)
+
+This book is about shell scripting with Node.js. You will learn:
+- How Node.js works
+- What npm packages (the de-facto standard for JavaScript packages) are.
+- How to use npm (the package manager bundled with Node.js)
+- How to write cross-platform package scripts for running development tasks such as generating artifacts and running tests.
+- How to use all of the aforementioned knowledge to create and deploy cross-platform shell scripts.
+
+### [Tackling TypeScript](https://exploringjs.com/tackling-ts/toc.html)
+> by [Dr. Axel Rauschmayer](http://dr-axel.de/)
+
+Part 1 is a quick start for TypeScript that teaches you the essentials quickly. Part 2 digs deeper into the language and covers many important topics in detail. This book is not a reference, it is meant to complement the official TypeScript handbook.
 
 ### [The Deno Handbook: A TypeScript Runtime Tutorial with Code Examples](https://www.freecodecamp.org/news/the-deno-handbook/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MAY 12, 2020
