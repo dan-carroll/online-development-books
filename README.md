@@ -12,6 +12,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
  <a  rel="noopener" href="#not-just-kid-stuff">Not Just Kid Stuff</a> | 
  <a rel="noopener" href="#creating-the-web">Creating the Web</a> | 
  <a rel="noopener" href="#web-apps-and-frameworks">Web Apps and Frameworks</a> | 
+ <a rel="noopener" href="#javascript-ecma-script">JavaScript (Ecma Script)</a> | 
  <a rel="noopener" href="#nodejs-book-list">Node.js Books</a> | 
  <a rel="noopener" href="#java-book-list">Java Books</a> | 
  <a rel="noopener" href="#c-and-c">C and C++</a> | 
@@ -103,6 +104,8 @@ An introduction to data structures organized around a motivating example: buildi
 
 An introduction to physical modeling using a computational approach.
 
+<hr>
+
 ## Not Just Kid Stuff
 > Game Play, and Coding, Is Not Just Kid Stuff
 
@@ -191,6 +194,8 @@ With DOM Enlightenment, you'll learn how to manipulate HTML more efficiently by 
 
 Introduction (Tutorial) to IndexedDB: IndexedDB is one of the storage capabilities introduced into browsers over the years. It's a key/value store (a noSQL database) considered to be the definitive solution for storing data in browsers.
 
+<hr>
+
 ## Web Apps and Frameworks
 
 <p align="center">Back to the <a href="#top">Top</a></p>
@@ -241,6 +246,8 @@ React is one of the most popular JavaScript frameworks ever created, and I belie
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), OCTOBER 22, 2019
 
 I wrote this book to help you quickly learn Svelte and get familiar with how it works. The ideal reader of the book has zero knowledge of Svelte, has maybe used Vue or React, but is looking for something more, or a new approach to things. Svelte is very much worth looking into, because it provides a refreshing point of view and several unique features to the Web.
+
+<hr>
 
 ## JavaScript (Ecma Script)
 
@@ -305,6 +312,8 @@ This book dives deeply into JavaScript:
 - It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
 - It covers only the language (ignoring platform-specific features such as browser APIs) but not exhaustively. Instead, it focuses on a selection of important topics.
 
+<hr>
+
 ## Node.js Book List
 > Node.js is an amazing tool for building networking services and applications.
 
@@ -340,6 +349,8 @@ Part 1 is a quick start for TypeScript that teaches you the essentials quickly. 
 
 In this post I want to get you up to speed with Deno quickly. We'll compare it with Node.js, and build your first REST API with it. If you are familiar with Node.js, the popular server-side JavaScript ecosystem, then Deno is just like Node. Except deeply improved in many ways. After you use Deno and learn to appreciate its features, Node.js will look like something *old*.
 
+<hr>
+
 ## Java Book List
 > Java powers a large share of today’s digital world.
 
@@ -355,6 +366,8 @@ In this post I want to get you up to speed with Deno quickly. We'll compare it w
 > by Allen B. Downey
 
 Build your own Web search engine — including a crawler, indexer, and search interface — while learning about data structures and algorithms in Java.
+
+<hr>
 
 ## C and C++
 
@@ -385,6 +398,8 @@ The goal of this book is to get you up and running with Swift, starting from zer
 
 Golang is an awesome, simple, modern, and fast programming language. It’s compiled, open source, and strongly typed. Go was meant to be a replacement for C and C++ codebases. It aims to make some things simpler like concurrency and memory management, with garbage collection.
 
+<hr>
+
 ## Computer Science
 
 <p align="center">Back to the <a href="#top">Top</a></p>
@@ -393,6 +408,8 @@ Golang is an awesome, simple, modern, and fast programming language. It’s comp
 > by Allen B. Downey
 
 Learn about software synchronization by solving a series of puzzles.
+
+<hr>
 
 ## Data Science
 > The study of data to extract meaningful insights for business.  
@@ -430,6 +447,8 @@ An introduction to digital signal processing with applications to sound and imag
 > by Allen B. Downey
 
 An introduction to complexity science, which includes small-world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models.
+
+<hr>
 
 ## Toolbox Books
 > Every programmer (developer) needs a toolbox.
@@ -498,6 +517,8 @@ R Markdown is a powerful tool for combining analysis and reporting into the same
 
 The rmarkdown package (Allaire et al. 2023) was first created in early 2014. During the past four years, it has steadily evolved into a relatively complete ecosystem for authoring documents, so it is a good time for us to provide a definitive guide to this ecosystem now.
 
+<hr>
+
 ## Unix and Linux
 
 <p align="center">Back to the <a href="#top">Top</a></p>
@@ -516,5 +537,4 @@ An introduction to Unix-like operating systems, such as macOS and Linux, and pro
 > by Maarten Billemont
 
 This guide is an introduction to basic and advanced concepts of the bash shell.
-
 
