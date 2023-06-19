@@ -104,6 +104,11 @@ An introduction to data structures organized around a motivating example: buildi
 
 An introduction to physical modeling using a computational approach.
 
+### [Learning to Program with Python](https://www.abcrockville.org/documents/library/public/Haltermanpythonbook.pdf)
+> ©2011 by Richard L. Halterman
+
+The focus here is on introducing programming techniques and developing good habits. To that end, our approach avoids some of the more esoteric features of Python and concentrates on the programming basics that transfer directly to other imperative programming languages.
+
 <hr>
 
 ## Not Just Kid Stuff
@@ -215,6 +220,13 @@ Tutorial: Webpack is a tool that lets you compile JavaScript modules. It’s als
 > by Massimo Di Pierro (in English)
 
 I have utilized the [web2py framework](http://www.web2py.com/) in numerous projects over the years. It is a great way to learn to create fully functional web applications of any complexity while also learning Python. I totally consumed the fifth edition of this book and am currently delving into the latest (sixth) edition while getting up to speed on a new project. There are differences (updates) to the book and framework, so here I go again.
+
+### [py4web: the reference Manual](https://py4web.com/_documentation/static/en/index.html)
+> by Massimo Di Pierro
+
+PY4WEB is a web framework for rapid development of efficient database driven web applications. It is an evolution of the popular web2py framework, but much faster and slicker. Its internal design has been much simplified compared to web2py.
+
+PY4WEB can be seen as a competitor of other frameworks like Django or Flask, and it can indeed serve the same purpose. Yet PY4WEB aims to provide a larger feature set out of the box and to reduce the development time of new apps.
 
 ### [Single page apps in depth](https://singlepageappbook.com/)
 > a.k.a Mixu's single page app book  
@@ -367,6 +379,12 @@ In this post I want to get you up to speed with Deno quickly. We'll compare it w
 
 Build your own Web search engine — including a crawler, indexer, and search interface — while learning about data structures and algorithms in Java.
 
+### [Open Data Structures (in Java)](https://opendatastructures.org/ods-java.pdf)
+> by Pat Morin
+
+The goal of this project is to free undergraduate computer science students from having to pay for an introductory data structures book. I have decided to implement this goal by treating this book like an Open Source
+software project. The LATEX source, Java source, and build scripts for the book are available to download from the [author’s website](http://opendatastructures.org/) and also, more importantly, on a [reliable source code management site](https://github.com/patmorin/ods).
+
 <hr>
 
 ## C and C++
@@ -382,6 +400,11 @@ This handbook does not try to cover everything under the sun related to C. It fo
 > by Allen B. Downey
 
 An introduction to programming using the C++ programming language.
+
+### [F# Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/fsharp/introduction)
+> by Robert Pickering
+
+Starting with the classic "Hello World" program and the basics of identifiers, recursion, and operators, and working through to graphics, simulations, and interactive forms, this book is the ideal first step to becoming a fluent F# programmer. F#'s integration with Visual Studio—featuring IntelliSense expression completion and an interactive version of the language for dynamic code evaluation—makes it the go-to functional language of the .NET platform.
 
 ### [Think OS: A Brief Introduction to Operating Systems](https://greenteapress.com/thinkos/html/index.html)
 > by Allen B. Downey
@@ -400,14 +423,38 @@ Golang is an awesome, simple, modern, and fast programming language. It’s comp
 
 <hr>
 
-## Computer Science
+## Computer Science and the Business of Software Development
 
 <p align="center">Back to the <a href="#top">Top</a></p>
+
+### [Foundations of Programming: Building Better Software](https://www.openmymind.net/FoundationsOfProgramming.pdf)
+> by [Karl Seguin](https://github.com/karlseguin) (2007)
+
+Free e-book on foundations of programming and building better software. Topics covered: Domain Driven Design, Persistence, Dependency Injection, Unit Testing, Object Relational Mappers, Memory and Exceptions.
+
+### [Programming from the Ground Up](http://ftp.twaren.net/Unix/NonGNU//pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
+> ©2003 by Jonathan Bartlett
+
+This book is not a reference book, it is an introductory book. It is therefore not suitable by itself to
+learn how to professionally program in x86 assembly language, as some details have been left out to
+make the learning process smoother. The point of the book is to help the student understand how
+assembly language and computer programming works, not to be a reference to the subject. Reference
+information about a particular processor can be obtained by contacting the company which makes it.
+
+### [Back To Basics: Hype-free Principles for Software Developers](https://codemanship.co.uk/backtobasics.pdf)
+> by [Jason Gorman](http://www.codemanship.com/about.html)
+
+Software development’s not quite the lawless and anarchic wild frontier people make it out to be. Developers today have seven decades of practical experience of writing software under commercial pressures to draw on, and there are many insights that have been built up over that time that an aspiring young programmer needs to know.
 
 ### [The Little Book of Semaphores](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
 > by Allen B. Downey
 
 Learn about software synchronization by solving a series of puzzles.
+
+### [Don’t Just Roll The Dice: A usefully short guide to software pricing](https://assets.red-gate.com/community/books/DJRTD_eBook.pdf)
+> ©2009 by Neil Davidson
+
+This short handbook will provide you with the theory, practical advice and case studies you need to stop yourself from reaching for the dice.
 
 <hr>
 
@@ -454,6 +501,14 @@ An introduction to complexity science, which includes small-world graphs, scale-
 > Every programmer (developer) needs a toolbox.
 
 <p align="center">Back to the <a href="#top">Top</a></p>
+
+### [Getting Started with Open Source Development](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf)
+
+> A book for the community by the community
+
+This book is a good starting point for beginners to the open source world. It is specially
+written to equip students, and open source enthusiasts with the norms and best practices
+of open source.
 
 ### [A developer’s introduction to GitHub](https://www.freecodecamp.org/news/a-developers-introduction-to-github-1034fa55c0db/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), FEBRUARY 28, 2018
