@@ -37,7 +37,7 @@ The Python Handbook follows the 80/20 rule: learn 80% of the topic in 20% of the
 > Exploring Data Using Python 3  
 > by Dr. Charles R. Severance
 
-[Interactive Textbook](https://books.trinket.io/pfe/index.html): A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the web2py reference manual.
+[Interactive Textbook](https://books.trinket.io/pfe/index.html): A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the [web2py reference manual](#web2py-complete-reference-manual-6th-edition-pre-release).
 
 ### [Python for Everybody - the Book](https://www.py4e.com/book)
 > Details about the book, along with many translations.
