@@ -16,6 +16,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
  <a rel="noopener" href="#nodejs-book-list">Node.js Books</a> | 
  <a rel="noopener" href="#java-book-list">Java Books</a> | 
  <a rel="noopener" href="#c-and-c">C and C++</a> | 
+ <a rel="noopener" href="#databases">Databases</a> | 
  <a rel="noopener" href="#computer-science">Computer Science</a> | 
  <a rel="noopener" href="#data-science">Data Science</a> | 
  <a rel="noopener" href="#toolbox-books">Toolbox Books</a> | 
@@ -104,10 +105,20 @@ An introduction to data structures organized around a motivating example: buildi
 
 An introduction to physical modeling using a computational approach.
 
+### [Beginning Programming with Python for Dummies](https://github.com/rajucs/Book-For-Programmers/blob/master/Beginning%20Programming%20with%20Python%20for%20Dummies.pdf)
+> by [John Paul Mueller](http://www.johnmuellerbooks.com), © 2014
+
+Learn Python—the fun and easy way—and get in the programming game today!
+
 ### [Learning to Program with Python](https://www.abcrockville.org/documents/library/public/Haltermanpythonbook.pdf)
 > ©2011 by Richard L. Halterman
 
 The focus here is on introducing programming techniques and developing good habits. To that end, our approach avoids some of the more esoteric features of Python and concentrates on the programming basics that transfer directly to other imperative programming languages.
+
+### [Web Scraping with Python: Collecting Data from the Modern Web](https://github.com/rajucs/Book-For-Programmers/blob/master/OReilly.Web.Scraping.with.Python.Collecting.Data.from.the.Modern.Web.1491910291.pdf)
+> ©2015 by [Ryan Mitchell](https://ryanemitchell.com/)
+
+Learn web scraping and crawling techniques to access unlimited data from any web source in any format. With this practical guide, you’ll learn how to use Python scripts and web APIs to gather and process data from thousands—or even millions—of web pages at once.
 
 <hr>
 
@@ -423,14 +434,47 @@ Golang is an awesome, simple, modern, and fast programming language. It’s comp
 
 <hr>
 
+## Databases
+
+<p align="center">Back to the <a href="#top">Top</a></p>
+
+### [17 ways to speed your SQL queries](https://github.com/rajucs/Book-For-Programmers/blob/master/17%20ways%20to%20speed%20your%20SQL%20queries.pdf)
+> by [Sean McCown](https://www.infoworld.com/author/Sean-McCown/), JAN 15, 2018  
+> [InfoWorld](https://www.infoworld.com/) : [Deep Dive series](https://www.infoworld.com/search?q=deep%20dive%20series#gsc.tab=0&gsc.q=infoworld%20deep%20dive%20series&gsc.sort=) : [SQL unleashed: 17 ways to speed your SQL queries](https://www.infoworld.com/article/3209665/sql-unleashed-17-ways-to-speed-your-sql-queries.html)
+
+It’s easy to create database code that slows down query results or ties up the database unnecessarily—unless you follow these tips.
+
+<hr>
+
 ## Computer Science and the Business of Software Development
 
 <p align="center">Back to the <a href="#top">Top</a></p>
+
+### [How to Become a Programmer](https://robwalling.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf)
+> Everything (Non-Technical) You Need to Know to Start Making Money Writing Code  
+> by [Rob Walling](http://www.softwarebyrob.com/)
+
+Thank you for supporting this effort to provide battle-tested answers on how to become a programmer. I’ve wanted to write this book for at least three years, and the backlog of questions I received during this time makes this book more valuable than it would have been when I originally envisioned it.
+
+### [Think Like a Programmer: An Introduction to Creative Problem Solving](https://github.com/rajucs/Book-For-Programmers/blob/master/Think%20Like%20a%20Programmer%20-%20An%20Intro.%20to%20Creative%20Problem%20Solving%20-%20V.%20Spraul%20(No%20Starch%2C%202012)%20BBS.pdf)
+> ©2012 by [V. Anton Spraul](https://vantonspraul.com/wp/)
+
+The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to Think Like a Programmer.
 
 ### [Foundations of Programming: Building Better Software](https://www.openmymind.net/FoundationsOfProgramming.pdf)
 > by [Karl Seguin](https://github.com/karlseguin) (2007)
 
 Free e-book on foundations of programming and building better software. Topics covered: Domain Driven Design, Persistence, Dependency Injection, Unit Testing, Object Relational Mappers, Memory and Exceptions.
+
+### [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://github.com/rajucs/Book-For-Programmers/blob/master/The-Effective-Engineer-How-to-Leverage-Your-Efforts-In-Software-Engineering-to-Make-a-Disproportionate-and-Meaningful-Impact.pdf)
+> ©2015 by Edmond Lau
+
+The only book designed specifically for today's software engineers, based on extensive interviews with engineering leaders at top tech companies, and packed with hundreds of techniques to accelerate your career.
+
+### [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition (2nd Edition)](https://github.com/rajucs/Book-For-Programmers/blob/master/The%20Pragmatic%20Programmer%20Your%20Journey%20to%20Mastery%2C%2020th%20Anniversary%20Edition%20by%20Andrew%20Hunt%20David%20Hurst%20Thomas.pdf)
+> ©2020 by David Thomas, Andrew Hunt
+
+The Pragmatic Programmer is one of those rare tech books you’ll read, re-read, and read again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time.
 
 ### [Programming from the Ground Up](http://ftp.twaren.net/Unix/NonGNU//pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 > ©2003 by Jonathan Bartlett
@@ -446,6 +490,46 @@ information about a particular processor can be obtained by contacting the compa
 
 Software development’s not quite the lawless and anarchic wild frontier people make it out to be. Developers today have seven decades of practical experience of writing software under commercial pressures to draw on, and there are many insights that have been built up over that time that an aspiring young programmer needs to know.
 
+### [Clean Code: A Handbook of Agile Software Craftsmanship](https://github.com/rajucs/Book-For-Programmers/blob/master/Clean%20Code_%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20-%20Robert%20C.%20Martin.pdf)
+> ©2009 by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)
+
+Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.
+
+### [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://github.com/rajucs/Book-For-Programmers/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
+> by [Eric Evans](https://www.domainlanguage.com/), August 20, 2003
+
+This is not a book about specific technologies. It offers readers a systematic approach to domain-driven design, presenting an extensive set of design best practices, experience-based techniques, and fundamental principles that facilitate the development of software projects facing complex domains.
+
+### [Design Patterns: Elements of Reusable Object-Oriented Software](https://github.com/rajucs/Book-For-Programmers/blob/master/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20(1994).pdf)
+> ©1995 by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+
+Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems.
+
+### [Patterns of Enterprise Application Architecture](https://github.com/rajucs/Book-For-Programmers/blob/master/Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Martin%20Fowler.pdf)
+> ©2003 by [Martin Fowler](https://martinfowler.com/)
+
+While architecture is important to all application development, it is particularly critical to the success of an enterprise project, where issues such as performance and concurrent multi-user access are paramount.
+
+### [Test Driven Development: By Example](https://github.com/rajucs/Book-For-Programmers/blob/master/Kent_Beck_TDD.pdf)
+> ©2002 by [Kent Beck](https://www.kentbeck.com/)
+
+Quite simply, test-driven development is meant to eliminate fear in application development. When programming teams buy into TDD, they immediately see positive results. They eliminate the fear involved in their jobs, and are better equipped to tackle the difficult challenges that face them.
+
+### [Refactoring: Improving the Design of Existing Code (2nd Edition)](https://github.com/rajucs/Book-For-Programmers/blob/master/Refactoring_%20Improving%20the%20Design%20of%20Existing%20Code%20(%20PDFDrive%20).pdf)
+> ©2019 by [Martin Fowler](https://martinfowler.com/)
+
+ Refactoring, Second Edition, features an updated catalog of refactoring's and includes JavaScript code examples, as well as new functional examples that demonstrate refactoring without classes.
+
+### [The Basics of User Experience Design: A UX Design Book by the Interaction Design Foundation](https://github.com/rajucs/Book-For-Programmers/blob/master/The-Basics-of-user-experience-design.pdf)
+> ©2018 by Mads Soegaard
+
+If you're looking to gain an introduction into the world of user experience (UX) design—or maybe even freshen up your knowledge of the field—then this UX design book is the ideal place to start.
+
+### [Introduction to Algorithms, 3rd Edition](https://github.com/rajucs/Book-For-Programmers/blob/master/Introduction%20to%20algorithms-3rd%20Edition%20Cormen.pdf)
+> ©2009 by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+
+The book covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers.
+
 ### [The Little Book of Semaphores](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
 > by Allen B. Downey
 
@@ -455,6 +539,11 @@ Learn about software synchronization by solving a series of puzzles.
 > ©2009 by Neil Davidson
 
 This short handbook will provide you with the theory, practical advice and case studies you need to stop yourself from reaching for the dice.
+
+### [Working Effectively with Legacy Code](https://github.com/rajucs/Book-For-Programmers/blob/master/%5BPROGRAMMING%5D%5BWorking%20Effectively.%20with%20Legacy%20Code%5D.pdf)
+> ©2005 by Michael Feathers
+
+This book provides programmers with the ability to cost effectively handl ecommon legacy code problems without having to go through the hugely expensive task of rewriting all existing code.
 
 <hr>
 
@@ -582,6 +671,11 @@ The rmarkdown package (Allaire et al. 2023) was first created in early 2014. Dur
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), NOVEMBER 3, 2020
 
 This Linux Command Handbook will cover 60 core Bash commands you will need as a developer. Each command includes example code and tips for when to use it.
+
+### [Linux Command Line and Shell Scripting Bible, 3rd Edition](https://github.com/rajucs/Book-For-Programmers/blob/master/Linux%20Command%20Line%20and%20Shell%20Scripting%20Bible%203rd%20Edition%20%7BPRG%7D.pdf)
+> ©2015 by Richard Blum, Christine Bresnahan
+
+Talk directly to your system for a faster workflow with automation capability.
 
 ### [The Unix Workbench](https://seankross.com/the-unix-workbench/)
 > by Sean Kross
