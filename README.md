@@ -17,7 +17,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
  <a rel="noopener" href="#java-book-list">Java Books</a> | 
  <a rel="noopener" href="#c-and-c">C and C++</a> | 
  <a rel="noopener" href="#databases">Databases</a> | 
- <a rel="noopener" href="#computer-science">Computer Science</a> | 
+ <a rel="noopener" href="#computer-science">Computer Science and the Business of Software Development</a> | 
  <a rel="noopener" href="#data-science">Data Science</a> | 
  <a rel="noopener" href="#toolbox-books">Toolbox Books</a> | 
  <a rel="noopener" href="#unix-and-linux">Unix and Linux</a>
@@ -398,6 +398,17 @@ software project. The LATEX source, Java source, and build scripts for the book 
 
 <hr>
 
+## ASP.NET
+
+<p align="center">Back to the <a href="#top">Top</a></p>
+
+### [Beginning ASP.neT 4.5.1 in C# and VB](https://dl.softgozar.com/Files/Ebook/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com.pdf)
+> by Imar Spaanjaars
+
+In this comprehensive guide to getting started with ASP.NET 4.5.1, best-selling author Imar Spaanjaars provides a firm foundation for coders new to ASP.NET and key insights for those not yet familiar with the important updates in the 4.5.1 release. Readers learn how to build full-featured ASP.NET websites using Visual Studio Express 2013 for Web, Microsoft's free development tool for ASP.NET web applications. Beginning ASP.NET 4.5.1 guides you through the process of creating a fully functional, database-driven website, from creation of the most basic site structure all the way down to the successful deployment of the website to a production environment.
+
+<hr>
+
 ## C and C++
 
 <p align="center">Back to the <a href="#top">Top</a></p>
@@ -455,6 +466,14 @@ It’s easy to create database code that slows down query results or ties up the
 > by [Rob Walling](http://www.softwarebyrob.com/)
 
 Thank you for supporting this effort to provide battle-tested answers on how to become a programmer. I’ve wanted to write this book for at least three years, and the backlog of questions I received during this time makes this book more valuable than it would have been when I originally envisioned it.
+
+### [Start Marketing The Day You Start Coding](https://robwalling.com/assets/ebook.pdf)
+> How to market your startup, live the entrepreneurial mindset, manage your company, retain developers, and become a Micropreneur.  
+> by [Rob Walling](http://www.softwarebyrob.com/)
+
+The goal of this collection is to breathe new life into articles that have fallen into the archives, and to provide you with a portable, well-formatted, and easy-to-read version of the best content from the first five years of Software by Rob.
+
+My hope is that have the same impact today as the day they were published. And trust me… there’s a lot more where this came from.
 
 ### [Think Like a Programmer: An Introduction to Creative Problem Solving](https://github.com/rajucs/Book-For-Programmers/blob/master/Think%20Like%20a%20Programmer%20-%20An%20Intro.%20to%20Creative%20Problem%20Solving%20-%20V.%20Spraul%20(No%20Starch%2C%202012)%20BBS.pdf)
 > ©2012 by [V. Anton Spraul](https://vantonspraul.com/wp/)
