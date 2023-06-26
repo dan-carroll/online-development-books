@@ -460,6 +460,8 @@ software project. The LATEX source, Java source, and build scripts for the book 
 ### [Scala For The Impatient](https://github.com/Kikou1998/textbook/blob/master/Scala%20For%20The%20Impatient.pdf)
 > ©2011
 
+
+
 <hr>
 
 ## ASP.NET
@@ -523,6 +525,11 @@ In this concise, self-contained guide, Stroustrup covers most major language fea
 > ©2015 by Scott Meyers
 
 Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in.
+
+### [Ivor Horton's Beginning Visual C++ 2013](https://github.com/GunterMueller/Books-3/blob/master/Beginning%20Visual%20C%2B%2B%202013.pdf)
+> ©2014 by Ivor Horton
+
+Horton's unique tutorial approach and step-by-step guidance have helped over 100,000 novice programmers learn C++. In Ivor Horton's Beginning Visual C++ 2013, Horton not only guides you through the fundamentals of the standard C++ language, but also teaches you how C++ is used in the latest Visual Studio 2013 environment. Visual Studio 2013 includes major changes to the IDE and expanded options for C++ coding. Ivor Horton's Beginning Visual C++ 2013 will teach you the latest techniques to take your Visual C++ coding to an all-new level.
 
 ### [The C++ Programming Language(Fourth Edition)](https://github.com/EvanLi/programming-book-2/blob/master/C%2B%2B/The%20C%2B%2B%20Programming%20Language(Fourth%20Edition).pdf)
 > ©2013 by Bjarne Stroustrup
@@ -670,6 +677,21 @@ Quite simply, test-driven development is meant to eliminate fear in application 
 > ©2018 by Mads Soegaard
 
 If you're looking to gain an introduction into the world of user experience (UX) design—or maybe even freshen up your knowledge of the field—then this UX design book is the ideal place to start.
+
+### [Agile Software Development: Principles, Patterns, and Practices](https://github.com/GunterMueller/Books-3/blob/master/Agile%20Software%20Development.pdf)
+> ©2003 by Robert Martin
+
+Written by a software developer for software developers, this book is a unique collection of the latest software development methods. The author includes OOD, UML, Design Patterns, Agile and XP methods with a detailed description of a complete software design for reusable programs in C++ and Java. Using a practical, problem-solving approach, it shows how to develop an object-oriented application―from the early stages of analysis, through the low-level design and into the implementation.
+
+### [Agile Testing: A Practical Guide for Testers and Agile Teams](https://github.com/GunterMueller/Books-3/blob/master/Agile%20Testing.pdf)
+> ©2009 by Lisa Crispin, Janet Gregory
+
+ In Agile Testing, Crispin and Gregory define agile testing and illustrate the tester’s role with examples from real agile teams. They teach you how to use the agile testing quadrants to identify what testing is needed, who should do it, and what tools might help.
+
+### [An Introduction to Scenario Testing](https://kaner.com/pdfs/ScenarioIntroVer4.pdf)
+> Cem Kaner, Florida Tech, June 2003
+
+A scenario test is a test based on a scenario. Scenario testing works best for complex transactions or events, for studying end-to-end delivery of the benefits of the program, for exploring how the program will work in the hands of an experienced user, and for developing more persuasive variations of bugs found using other approaches.
 
 ### [Introduction to Algorithms, 3rd Edition](https://github.com/rajucs/Book-For-Programmers/blob/master/Introduction%20to%20algorithms-3rd%20Edition%20Cormen.pdf)
 > ©2009 by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
