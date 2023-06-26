@@ -50,6 +50,11 @@ The Python Handbook follows the 80/20 rule: learn 80% of the topic in 20% of the
 
 Python Succintly? Yes! Just the basics. Ideal for a quick brush up or to answer specific questions on Variables and Strings; Numbers, Math, and Comments; Booleans and Conditionals; Functions; Lists; Dictionaries; Tuples; File I/O; and Modules. Great if you need a refresher on one of these topics.
 
+### [Automate it! - Recipes to upskill your business](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Automate%20it!%20-%20Recipes%20to%20upskill%20your%20business.pdf)
+> ©2017 by Chetan Giridhar
+
+Automate it! gives you a great selection of recipes to automate your business processes with Python, and provides a platform for you to understand how Python is useful to make time-consuming and repetitive business tasks more efficient.
+
 ### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 > ©2015 by [Al Sweigart](https://alsweigart.com/)
 
@@ -598,6 +603,11 @@ Golang is an awesome, simple, modern, and fast programming language. It’s comp
 
 It’s easy to create database code that slows down query results or ties up the database unnecessarily—unless you follow these tips.
 
+### [Building Microservices: Designing Fine-Grained Systems](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Building%20Microservices%20-%20Designing%20Fine-Grained%20Systems.pdf)
+> ©2015 by Sam Newman
+
+Microservice technologies are moving quickly. Author Sam Newman provides you with a firm grounding in the concepts while diving into current solutions for modeling, integrating, testing, deploying, and monitoring your own autonomous services. You’ll follow a fictional company throughout the book to learn how building a microservice architecture affects a single domain.
+
 <hr>
 
 ## Computer Science and the Business of Software Development
@@ -727,6 +737,51 @@ Algorithm Design introduces algorithms by looking at the real-world problems tha
 > ©2016 by Allen B. Downey
 
 Learn about software synchronization by solving a series of puzzles.
+
+### [DevOps Bootcamp: The fastest way to learn DevOps](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/DevOps%20Bootcamp.pdf)
+> ©2017 by Mitesh Soni
+
+Improve your organization's performance to ensure smooth production of software and services. Learn how Continuous Integration and Continuous Delivery practices can be utilized to cultivate the DevOps culture. A fast-paced guide filled with illustrations and best practices to help you consistently ship quality software.
+
+### [DevOps for Web Development](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/DevOps%20for%20Web%20Development.pdf)
+> ©2016 by Mitesh Soni
+
+The DevOps culture is growing at a massive rate, as many organizations are adopting it. However, implementing it for web applications is one of the biggest challenges experienced by many developers and admins, which this book will help you overcome using various tools, such as Chef, Docker, and Jenkins.
+
+### [DevOps for Networking](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/DevOps%20for%20Networking.pdf)
+> ©2016 by Steven Armstrong
+
+This book aims to show readers network automation processes they could implement in their organizations. It will teach you the fundamentals of DevOps in networking and how to improve DevOps processes and workflows by providing automation in your network. You will be exposed to various networking strategies that are stopping your organization from scaling new projects quickly.
+
+### [DevOps, DBAs, and DBaaS: Managing Data Platforms to Support Continuous Integration](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/DevOps%2C%20DBAs%2C%20and%20DBaaS%20-%20Managing%20Data%20Platforms%20to%20Support%20Continuous%20Integration.pdf)
+> ©2016 by Michael S. Cuppett
+
+Learn how DBAs in a DevOps environment manage data platforms and change requests to support and optimize continuous integration, delivery, testing, and deployment in the application development life cycle.
+
+### [DevOps on the Microsoft Stack](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/DevOps%20on%20the%20Microsoft%20Stack.pdf)
+> ©2016 by Wouter de Kort
+
+This book tells you everything you need to know to help your organization implement DevOps on the Microsoft platform. You will learn how to use Visual Studio, Visual Studio Team Services, and Azure to implement a complete DevOps process in your company. You will learn about Agile Project Management, Continuous Integration, Continuous Delivery, Technical Debt Management, Automatic Testing and Monitoring, and see how all these areas fit together.
+
+### [DevOps Automation Cookbook](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/DevOps%20Automation%20Cookbook.pdf)
+> ©2015 by Michael Duffy
+
+Over 120 recipes covering key automation techniques through code management and virtualization offered by modern Infrastructure as a Service solutions.
+
+### [Learning Continuous Integration with Jenkins: A beginner's guide to implementing Continuous Integration and Continuous Delivery using Jenkins](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Learning%20Continuous%20Integration%20with%20Jenkins.pdf)
+> ©2016 by Nikhil Pathania
+
+This book starts off by explaining the concepts of CI and its significance in the Agile world with a whole chapter dedicated to it. Next, you'll learn to configure and set up Jenkins. You'll gain a foothold in implementing CI and continuous delivery methods. We dive into the various features offered by Jenkins one by one exploiting them for CI.
+
+### [Jenkins Essentials](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Jenkins%20Essentials.pdf)
+> ©2015 by Mitesh Soni
+
+If you are a Jenkins novice or beginner with a basic understanding of continuous integration, then this is the book for you. Beginners in Jenkins will get quick hands-on experience and gain the confidence to go ahead and explore the use of Jenkins further.
+
+### [Continuous Delivery and DevOps: A Quickstart guide](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Continuous%20Delivery%20and%20DevOps%20-%20A%20Quickstart%20Guide.pdf)
+> ©2012 by Paul Swartout
+
+A practical and engaging guide to help map out, plan and navigate through the journey to successful CD and DevOps adoption.
 
 ### [Don’t Just Roll The Dice: A usefully short guide to software pricing](https://assets.red-gate.com/community/books/DJRTD_eBook.pdf)
 > ©2009 by Neil Davidson
@@ -938,9 +993,15 @@ This Linux Command Handbook will cover 60 core Bash commands you will need as a 
 Talk directly to your system for a faster workflow with automation capability.
 
 ### [The Unix Workbench](https://seankross.com/the-unix-workbench/)
-> by Sean Kross
+> ©2019 by Sean Kross
 
 An introduction to Unix-like operating systems, such as macOS and Linux, and programming on them.
+
+### [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/abs-guide.pdf)
+[HTML version](https://tldp.org/LDP/abs/html/)
+> Mendel Cooper, 10 Mar 2014
+
+An in-depth exploration of the art of shell scripting.
 
 ### [The Bash Guide](https://guide.bash.academy/)
 > by Maarten Billemont
