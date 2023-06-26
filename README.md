@@ -491,13 +491,23 @@ In this comprehensive guide to getting started with ASP.NET 4.5.1, best-selling 
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
+### [C Programming Language, 2nd Edition](https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf)
+> ©1988 by Brian W. Kernighan, Dennis M. Ritchie
+
+The authors present the complete guide to ANSI standard C language programming. Written by the developers of C, this new version helps readers keep up with the finalized ANSI standard for C while showing how to take advantage of C's rich set of operators, economy of expression, improved control flow, and data structures. The 2/E has been completely rewritten with additional examples and problem sets to clarify the implementation of difficult language constructs.
+
+### [C: A Reference Manual, 5th Edition](https://github.com/auspbro/ebook-c/blob/master/C%20A%20Reference%20Manual%20Fifth%20Edition.pdf)
+> ©2002 by Samuel Harbison, Guy Steele Jr.
+
+This authoritative reference manual provides a complete description of the C language, the run-time libraries, and a style of C programming that emphasizes correctness, portability, and maintainability. The authors describe the C language more clearly and in more detail than in any other book.
+
 ### [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 9, 2020
 
 This handbook does not try to cover everything under the sun related to C. It focuses on the core of the language, trying to simplify the more complex topics. C is probably the most widely known programming language. It is used as the reference language for computer science courses all over the world, and it's probably the language that people learn the most in school along with Python and Java.
 
 ### [Think C/C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf)
-> by Allen B. Downey
+> ©1999 by Allen B. Downey
 
 An introduction to programming using the C++ programming language.
 
@@ -581,16 +591,22 @@ The Pragmatic Programmer is one of those rare tech books you’ll read, re-read,
 ### [Programming from the Ground Up](http://ftp.twaren.net/Unix/NonGNU//pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 > ©2003 by Jonathan Bartlett
 
-This book is not a reference book, it is an introductory book. It is therefore not suitable by itself to
-learn how to professionally program in x86 assembly language, as some details have been left out to
-make the learning process smoother. The point of the book is to help the student understand how
-assembly language and computer programming works, not to be a reference to the subject. Reference
-information about a particular processor can be obtained by contacting the company which makes it.
+This book is not a reference book, it is an introductory book. It is therefore not suitable by itself to learn how to professionally program in x86 assembly language, as some details have been left out to make the learning process smoother. The point of the book is to help the student understand how assembly language and computer programming works, not to be a reference to the subject. Reference information about a particular processor can be obtained by contacting the company which makes it.
 
 ### [Back To Basics: Hype-free Principles for Software Developers](https://codemanship.co.uk/backtobasics.pdf)
-> by [Jason Gorman](http://www.codemanship.com/about.html)
+> ©2016 by [Jason Gorman](http://www.codemanship.com/about.html)
 
 Software development’s not quite the lawless and anarchic wild frontier people make it out to be. Developers today have seven decades of practical experience of writing software under commercial pressures to draw on, and there are many insights that have been built up over that time that an aspiring young programmer needs to know.
+
+### [Software Requirements, Third Edition](https://www.dirzon.com/file/telegram/HiLCoE%20-%20DRB1802/Microsoft%20Press%20Software%20Requirements%203%203rd%20Edition%20Aug%202013.pdf)
+> ©2013  by Karl Wiegers and Joy Beatty
+
+Now in its third edition, this classic guide to software requirements engineering has been fully updated with new topics, examples, and guidance. Two leaders in the requirements community have teamed up to deliver a contemporary set of practices covering the full range of requirements development and management activities on software projects.
+
+### [Software Estimation: Demystifying the Black Art](https://ptgmedia.pearsoncmg.com/images/9780735605350/samplepages/9780735605350.pdf)
+> © 2006 by Steve McConnell
+
+A practical guide for software developers and development teams, this book features effective and understandable formulas, procedures, and heuristics to help organizations improve their project cost estimates.
 
 ### [Clean Code: A Handbook of Agile Software Craftsmanship](https://github.com/rajucs/Book-For-Programmers/blob/master/Clean%20Code_%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20-%20Robert%20C.%20Martin.pdf)
 > ©2009 by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)
@@ -646,6 +662,12 @@ This short handbook will provide you with the theory, practical advice and case 
 > ©2005 by Michael Feathers
 
 This book provides programmers with the ability to cost effectively handl ecommon legacy code problems without having to go through the hugely expensive task of rewriting all existing code.
+
+### [Structure and Interpretation of Computer Programs, Second Edition](https://web.mit.edu/6.001/6.037/sicp.pdf)
+> ©1996 by The Massachuses Institute of Technology  
+> by Harold Abelson and Gerald Jay Sussman with Julie Sussman
+
+Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula. This revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published.
 
 <hr>
 
