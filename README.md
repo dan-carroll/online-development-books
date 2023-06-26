@@ -506,6 +506,31 @@ This authoritative reference manual provides a complete description of the C lan
 
 This handbook does not try to cover everything under the sun related to C. It focuses on the core of the language, trying to simplify the more complex topics. C is probably the most widely known programming language. It is used as the reference language for computer science courses all over the world, and it's probably the language that people learn the most in school along with Python and Java.
 
+### [A Tour of C++ (2nd Edition)](https://github.com/Kikou1998/textbook/blob/master/A%20Tour%20of%20C%2B%2B%20(2nd%20Edition)%20(C%2B%2B%20In-Depth%20Series).pdf)
+> ©2018 by Bjarne Stroustrup
+
+Stroustrup presents the C++ features in the context of the programming styles they support, such as object-oriented and generic programming. His tour is remarkably comprehensive. Coverage begins with the basics, then ranges widely through more advanced topics, including many that are new in C++17, such as move semantics, uniform initialization, lambda expressions, improved containers, random numbers, and concurrency. The tour even covers some extensions being made for C++20, such as concepts and modules, and ends with a discussion of the design and evolution of C++.
+
+### [A Tour of C++](https://github.com/GunterMueller/Books-3/blob/master/A%20Tour%20of%20C%2B%2B.pdf)
+> ©2014 by Bjarne Stroustrup
+
+In this concise, self-contained guide, Stroustrup covers most major language features and the major standard-library components–not, of course, in great depth, but to a level that gives programmers a meaningful overview of the language, some key examples, and practical help in getting started.
+
+### [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://github.com/GunterMueller/Books-3/blob/master/Effective%20Modern%20C%2B%2B%2011%20and%2014.pdf)
+> ©2015 by Scott Meyers
+
+Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in.
+
+### [The C++ Programming Language(Fourth Edition)](https://github.com/EvanLi/programming-book-2/blob/master/C%2B%2B/The%20C%2B%2B%20Programming%20Language(Fourth%20Edition).pdf)
+> ©2013 by Bjarne Stroustrup
+
+The new C++11 standard allows programmers to express ideas more clearly, simply, and directly, and to write faster, more efficient code. Bjarne Stroustrup, the designer and original implementer of C++, has reorganized, extended, and completely rewritten his definitive reference and tutorial for programmers who want to use C++ most effectively.
+
+### [Effective C++: 55 Specific Ways to Improve Your Programs and Designs, 3rd Edition](https://github.com/GunterMueller/Books-3/blob/master/Effective%20C%2B%2B%203rd%20ed.pdf)
+> ©2008 by Scott Meyers
+
+The book is organized around 55 specific guidelines, each of which describes a way to write better C++. Each is backed by concrete examples. For this third edition, more than half the content is new, including added chapters on managing resources and using templates.
+
 ### [Think C/C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf)
 > ©1999 by Allen B. Downey
 
@@ -648,8 +673,18 @@ If you're looking to gain an introduction into the world of user experience (UX)
 
 The book covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers.
 
+### [Algorithms](https://github.com/Kikou1998/textbook/blob/master/Algorithms-JeffE.pdf)
+> ©2019 by Jeff Erickson
+
+Algorithms are the lifeblood of computer science. They are the machines that proofs build and the music that programs play. Their history is as old as mathematics itself. This textbook is a wide-ranging, idiosyncratic treatise on the design and analysis of algorithms, covering several fundamental techniques, with an emphasis on intuition and the problem-solving process. The book includes important classical examples, hundreds of battle-tested exercises, far too many historical digressions, and exaclty four typos.
+
+### [Algorithm Design](https://github.com/Kikou1998/textbook/blob/master/Algorithm%20Design.pdf)
+> ©2006 by Jon Kleinberg, Eva Tardos
+
+Algorithm Design introduces algorithms by looking at the real-world problems that motivate them. The book teaches students a range of design and analysis techniques for problems that arise in computing applications. The text encourages an understanding of the algorithm design process and an appreciation of the role of algorithms in the broader field of computer science.
+
 ### [The Little Book of Semaphores](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
-> by Allen B. Downey
+> ©2016 by Allen B. Downey
 
 Learn about software synchronization by solving a series of puzzles.
 
@@ -668,6 +703,42 @@ This book provides programmers with the ability to cost effectively handl ecommo
 > by Harold Abelson and Gerald Jay Sussman with Julie Sussman
 
 Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula. This revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published.
+
+### [Compilers Principles Techniques and Tools (2nd Edition)](https://github.com/qshadun/books/blob/master/Compilers%20Principles%20Techniques%20and%20Tools%20(2nd%20Edition)%20.pdf)
+> ©2007 by Alfred Aho, Jeffrey Ullman, Ravi Sethi, Monica Lam
+
+Compilers: Principles, Techniques and Tools, known to professors, students, and developers worldwide as the "Dragon Book," is available in a new edition. Every chapter has been completely revised to reflect developments in software engineering, programming languages, and computer architecture that have occurred since 1986, when the last edition published. The authors, recognizing that few readers will ever go on to construct a compiler, retain their focus on the broader set of problems faced in software design and software development.
+
+### [A Course in Machine Learning](https://github.com/Kikou1998/textbook/blob/master/A_course_in_machine_learning.pdf)
+> ©2017 by Hal Daumé III
+
+CIML is a set of introductory materials that covers most major aspects of modern machine learning (supervised learning, unsupervised learning, large margin methods, probabilistic modeling, learning theory, etc.). It's focus is on broad applications with a rigorous backbone.
+
+### [Artificial Intelligence: A Modern Approach, 3rd Edition](https://github.com/Kikou1998/textbook/blob/master/AI_A_Modern_Approach_3rdEd.pdf)
+> ©2009 by Stuart Russell, Peter Norvig
+
+Artificial Intelligence: A Modern Approach, 3e offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence. Number one in its field, this textbook is ideal for one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence.
+
+### [The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition](https://www.cesarkallas.net/arquivos/livros/informatica/Addison.Wesley.The.Mythical.Man-Month.Essays.on.Software.Engineering.20th.Anniversary.Edition.pdf)
+> ©1995 by Frederick Brooks Jr.
+
+Few books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360, its massive software system. Now, 20 years after the initial publication of his book, Brooks has revisited his original ideas and added new thoughts and advice, both for readers already familiar with his work and for readers discovering it for the first time.
+
+### [Elementary Differential Equations, 11th Edition](https://github.com/Kikou1998/textbook/blob/master/11th.pdf)
+> ©2017 by William E. Boyce, Richard C. DiPrima, Douglas B. Meade
+
+Elementary Differential Equations, 11th Edition is written from the viewpoint of the applied mathematician, whose interest in differential equations may sometimes be quite theoretical, sometimes intensely practical, and often somewhere in between. The authors have sought to combine a sound and accurate (but not abstract) exposition of the elementary theory of differential equations with considerable material on methods of solution, analysis, and approximation that have proved useful in a wide variety of applications. While the general structure of the book remains unchanged, some notable changes have been made to improve the clarity and readability of basic material about differential equations and their applications.
+
+### [A First Course in Probability, 9th Edition](https://github.com/Kikou1998/textbook/blob/master/A%20First%20Course%20in%20Probability%209th%20Edition.pdf)
+> ©2014 by Sheldon Ross
+
+A First Course in Probability, Ninth Edition, features clear and intuitive explanations of the mathematics of probability theory, outstanding problem sets, and a variety of diverse examples and applications. This book is ideal for an upper-level undergraduate or graduate level introduction to probability for math, science, engineering and business students. It assumes a background in elementary calculus.
+
+### [The Mythical Man Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
+> ©1975 by Addison-Wesley Publishing Company, Inc.  
+> ©1972 by Frederick P. Brooks, Jr.
+
+The Mythical Man-Month: Essays on Software Engineering is a book on software engineering and project management by Fred Brooks first published in 1975, with subsequent editions in 1982 and 1995. Its central theme is that adding manpower to a software project that is behind schedule delays it even longer.
 
 <hr>
 
