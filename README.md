@@ -496,25 +496,40 @@ In this comprehensive guide to getting started with ASP.NET 4.5.1, best-selling 
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
-### [C Programming Language, 2nd Edition](https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf)
-> ©1988 by Brian W. Kernighan, Dennis M. Ritchie
+### [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
+> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 9, 2020
 
-The authors present the complete guide to ANSI standard C language programming. Written by the developers of C, this new version helps readers keep up with the finalized ANSI standard for C while showing how to take advantage of C's rich set of operators, economy of expression, improved control flow, and data structures. The 2/E has been completely rewritten with additional examples and problem sets to clarify the implementation of difficult language constructs.
+This handbook does not try to cover everything under the sun related to C. It focuses on the core of the language, trying to simplify the more complex topics. C is probably the most widely known programming language. It is used as the reference language for computer science courses all over the world, and it's probably the language that people learn the most in school along with Python and Java.
+
+### [Beginning C, 5th Edition](http://www.mosaic-industries.com/embedded-systems/_media/c-ide-software-development/learning-c-programming-language/beginning-c-5th-edition-ivor-horton.pdf)
+> ©2013 by Ivor Horton
+
+Beginning C, 5th Edition teaches you how to program using the widely-available C language. You'll begin from first-principles and progress through step-by-step examples to become a competent, C-language programmer. All you need are this book and any of the widely available free or commercial C or C++ compilers, and you'll soon be writing real C programs. C is a foundational language that every programmer ought to know.
+
+### [C Programming for the Absolute Beginner, 2nd Edition](https://gbcramgarh.in/e-learning-study-materials/BCA/c++/Vine,_Michael_-_C_Programming_for_the_Absolute_Beginner_-_2nd_Edition.pdf)
+> ©2008 by Michael Vine
+
+If you are new to programming with C and are looking for a solid introduction, this is the book for you. Developed by computer science instructors, books in the for the absolute beginner series teach the principles of programming through simple game creation. C is not an easy language to learn, but fortunately the clear explanations, examples, and pictures in this book make learning C easy and fun
 
 ### [C: A Reference Manual, 5th Edition](https://github.com/auspbro/ebook-c/blob/master/C%20A%20Reference%20Manual%20Fifth%20Edition.pdf)
 > ©2002 by Samuel Harbison, Guy Steele Jr.
 
 This authoritative reference manual provides a complete description of the C language, the run-time libraries, and a style of C programming that emphasizes correctness, portability, and maintainability. The authors describe the C language more clearly and in more detail than in any other book.
 
-### [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
-> by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), MARCH 9, 2020
+### [C Programming Language, 2nd Edition](https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf)
+> ©1988 by Brian W. Kernighan, Dennis M. Ritchie
 
-This handbook does not try to cover everything under the sun related to C. It focuses on the core of the language, trying to simplify the more complex topics. C is probably the most widely known programming language. It is used as the reference language for computer science courses all over the world, and it's probably the language that people learn the most in school along with Python and Java.
+The authors present the complete guide to ANSI standard C language programming. Written by the developers of C, this new version helps readers keep up with the finalized ANSI standard for C while showing how to take advantage of C's rich set of operators, economy of expression, improved control flow, and data structures. The 2/E has been completely rewritten with additional examples and problem sets to clarify the implementation of difficult language constructs.
 
 ### [A Tour of C++ (2nd Edition)](https://github.com/Kikou1998/textbook/blob/master/A%20Tour%20of%20C%2B%2B%20(2nd%20Edition)%20(C%2B%2B%20In-Depth%20Series).pdf)
 > ©2018 by Bjarne Stroustrup
 
 Stroustrup presents the C++ features in the context of the programming styles they support, such as object-oriented and generic programming. His tour is remarkably comprehensive. Coverage begins with the basics, then ranges widely through more advanced topics, including many that are new in C++17, such as move semantics, uniform initialization, lambda expressions, improved containers, random numbers, and concurrency. The tour even covers some extensions being made for C++20, such as concepts and modules, and ends with a discussion of the design and evolution of C++.
+
+### [Beginning C++ Programming](https://notalentgeek.github.io/note/note/project/project-independent/pi-brp-beginning-c-programming/document/20170807-1504-cet-1-book-and-source-1.pdf)
+> ©2017 by Richard Grimes
+
+The main mission of this book is to make you familiar and comfortable with C++. You will finish the book not only being able to write your own code, but more importantly, you will be able to read other projects. It is only by being able to read others' code that you will progress from a beginner to an advanced programmer. This book is the first step in that progression.
 
 ### [A Tour of C++](https://github.com/GunterMueller/Books-3/blob/master/A%20Tour%20of%20C%2B%2B.pdf)
 > ©2014 by Bjarne Stroustrup
