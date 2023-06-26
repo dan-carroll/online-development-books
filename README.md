@@ -15,6 +15,7 @@ Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sta
  <a rel="noopener" href="#javascript-ecma-script">JavaScript (Ecma Script)</a> | 
  <a rel="noopener" href="#nodejs-book-list">Node.js Books</a> | 
  <a rel="noopener" href="#java-book-list">Java Books</a> | 
+ <a rel="noopener" href="#aspnet">ASP.NET</a> | 
  <a rel="noopener" href="#c-and-c">C and C++</a> | 
  <a rel="noopener" href="#databases">Databases</a> | 
  <a rel="noopener" href="#computer-science">Computer Science and the Business of Software Development</a> | 
@@ -36,7 +37,7 @@ The Python Handbook follows the 80/20 rule: learn 80% of the topic in 20% of the
 
 ### [Python for Everybody](https://www.py4e.com/html3/)
 > Exploring Data Using Python 3  
-> by Dr. Charles R. Severance
+> ©2016 by Dr. Charles R. Severance
 
 [Interactive Textbook](https://books.trinket.io/pfe/index.html): A great place to start in learning the Python programming language, or just to learn to program. More details on the Python programming language than the [web2py reference manual](#web2py-complete-reference-manual-6th-edition-pre-release).
 
@@ -50,63 +51,68 @@ The Python Handbook follows the 80/20 rule: learn 80% of the topic in 20% of the
 Python Succintly? Yes! Just the basics. Ideal for a quick brush up or to answer specific questions on Variables and Strings; Numbers, Math, and Comments; Booleans and Conditionals; Functions; Lists; Dictionaries; Tuples; File I/O; and Modules. Great if you need a refresher on one of these topics.
 
 ### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-> by [Al Sweigart](https://alsweigart.com/)
+> ©2015 by [Al Sweigart](https://alsweigart.com/)
 
 Have fun (Really), learning what you can do with Python,
 
 ### [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
-> by [Al Sweigart](https://alsweigart.com/)
+> ©2021 by [Al Sweigart](https://alsweigart.com/)
 
 81 games, puzzles, art, simulations, and other programs designed to be simple enough for beginners to read through their code and get inspiration.
 
 ### [Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently/)
-> by [Al Sweigart](https://alsweigart.com/)
+> ©2022 by [Al Sweigart](https://alsweigart.com/)
 
 42 programming exercises in this book let you practice what you've learned.
 
 ### [The Recursive Book of Recursion](https://inventwithpython.com/recursion/)
 > Recursion, Understandable by Humans  
-> by [Al Sweigart](https://alsweigart.com/)
+> ©2022 by [Al Sweigart](https://alsweigart.com/)
 
 This book teaches the basics of recursion, exposes the ways it's often poorly taught, and clarifies the fundamental principles behind all recursive algorithms.
 
 ### [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
-> by [Al Sweigart](https://alsweigart.com/)
+> ©2020 by [Al Sweigart](https://alsweigart.com/)
 
 Bridge the Gap Between Novice and Professional
 
 ### [Cracking Codes with Python](https://inventwithpython.com/cracking/)
-> by [Al Sweigart](https://alsweigart.com/)
+> ©2018 by [Al Sweigart](https://alsweigart.com/)
 
 Teaches complete beginners how to program in the Python programming language.
 
 ### [Invent Your Own Computer Games with Python, 4th Edition](https://inventwithpython.com/invent4thed/)
-> by [Al Sweigart](https://alsweigart.com/)
+> ©2016 by [Al Sweigart](https://alsweigart.com/)
 
 Teaches programming concepts with example games.
 
 ### [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
-> by [Al Sweigart](https://alsweigart.com/)
+> ©2012 by [Al Sweigart](https://alsweigart.com/)
 
 Expand your abilities using the Pygame library to make games with graphics, animation, and sound.
 
-### [Think Python 2e](https://greenteapress.com/thinkpython2/html/index.html)
-> by Allen B. Downey
+### [Python Game Programming By Example](https://github.com/themockingjester/Books/blob/master/Python_Game_Programming.pdf)
+> ©2015 by Alejandro Rodas de Paz, Joseph Howse
 
-An introduction to Python programming for beginners.
+If you have ever wanted to create casual games in Python and you would like to explore various GUI technologies that this language offers, this is the book for you. This title is intended for beginners to Python with little or no knowledge of game development, and it covers step by step how to build seven different games, from the well-known Space Invaders to a classical 3D platformer.
+
+### [Think Python: How to Think Like a Computer Scientist, 2nd Edition](https://greenteapress.com/thinkpython2/html/index.html)
+> ©2016 by Allen B. Downey
+
+If you want to learn how to program, working with Python is an excellent way to start. This hands-on guide takes you through the language a step at a time, beginning with basic programming concepts before moving on to functions, recursion, data structures, and object-oriented design. This second edition and its supporting code have been updated for Python 3.
 
 ### [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/)
-> by Allen B. Downey
+> ©2022 by Allen B. Downey
 
 An introduction to data structures organized around a motivating example: building a search engine.
 
 ### [Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/)
-> by Allen B. Downey
+> ©2023 by Allen B. Downey
 
 An introduction to physical modeling using a computational approach.
 
 ### [Beginning Programming with Python for Dummies](https://github.com/rajucs/Book-For-Programmers/blob/master/Beginning%20Programming%20with%20Python%20for%20Dummies.pdf)
-> by [John Paul Mueller](http://www.johnmuellerbooks.com), © 2014
+> ©2014 by [John Paul Mueller](http://www.johnmuellerbooks.com)
 
 Learn Python—the fun and easy way—and get in the programming game today!
 
@@ -119,6 +125,26 @@ The focus here is on introducing programming techniques and developing good habi
 > ©2015 by [Ryan Mitchell](https://ryanemitchell.com/)
 
 Learn web scraping and crawling techniques to access unlimited data from any web source in any format. With this practical guide, you’ll learn how to use Python scripts and web APIs to gather and process data from thousands—or even millions—of web pages at once.
+
+### [Learning Robotics Using Python](https://github.com/themockingjester/Books/blob/master/Learning%20Robotics%20Using%20Python.pdf)
+> ©2015 by Lentin Joseph
+
+Learning Robotics Using Python is an essential guide for creating an autonomous mobile robot using popular robotic software frameworks such as ROS using Python. It also discusses various robot software frameworks and how to go about coding the robot using Python and its framework. It concludes with creating a GUI-based application to control the robot using buttons and slides.
+
+### [Mastering Django: Core: The Complete Guide to Django 1.8 LT](https://github.com/themockingjester/Books/blob/master/masteringdjangocore-sample.pdf)
+> ©2016 by Nigel George
+
+Mastering Django: Core is a completely revised and updated version of the original Django Book, written by Adrian Holovaty and Jacob Kaplan-Moss - the creators of Django. The main goal of this book is to make you a Django expert. By reading this book, you'll learn the skills needed to develop powerful websites quickly, with code that is clean and easy to maintain. This book is also a programmer's manual that provides complete coverage of the current Long Term Support (LTS) version of Django. For developers creating applications for commercial and business critical deployments, Mastering Django: Core provides a complete, up-to-date resource for Django 1.8LTS with a stable code-base, security fixes and support out to 2018.
+
+### [Python Web Development with Django](https://github.com/themockingjester/Books/blob/master/Python%20Web%20Development%20with%20Django%20%5BForcier%2C%20Bissex%20%26%20Chun%202008-11-03%5D.pdf)
+> ©2008 by Jeff Forcier
+
+The authors teach Django through in-depth explanations, plus provide extensive sample code supported with images and line-by-line explanations. You'll discover how Django leverages Python's development speed and flexibility to help you solve a wide spectrum of Web development problems and learn Django best practices covered nowhere else. You'll build your first Django application in just minutes and deepen your real-world skills through start-to-finish application projects.
+
+### [Python and Tkinter Programming](https://github.com/themockingjester/Books/blob/master/tkinter%20by%20john%20e%20grayson.pdf)
+> ©2000 by John Grayson
+
+Graphical user interfaces for Python programs.
 
 <hr>
 
@@ -156,6 +182,11 @@ Five Things You Should Know About HTML5
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), JULY 7, 2022
 
 PHP is an incredibly popular programming language. This book is a perfect introduction if you’re new to the language. It’s also perfect if you’ve done “some PHP” in the past and you want to get back to it.
+
+### [Learning PHP, MySQL, JavaScript, CSS & HTML5, 3rd Edition](http://projanco.com/Library/Learning%20PHP,%20MySQL,%20JavaScript,%20CSS%20_%20HTML5,%20Third%20Edition-%20A%20Step-by-Step%20Guide%20to%20Creating%20Dynamic%20Websites.pdf)
+> ©2014 by Robin Nixon 
+
+Learn how to build interactive, data-driven websites--even if you don't have any previous programming experience. If you know how to build static sites with HTML, this popular guide will help you tackle dynamic web programming. You'll get a thorough grounding in today's core open source technologies: PHP, MySQL, JavaScript, CSS, and now HTML5.
 
 ### [How to Start a Blog](https://www.freecodecamp.org/news/how-to-start-a-blog-book/)
 > by [Flavio Copes](https://www.freecodecamp.org/news/author/flavio/), OCTOBER 11, 2021
@@ -379,6 +410,26 @@ In this post I want to get you up to speed with Deno quickly. We'll compare it w
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
+### [Java Fundamentals: A fast-paced and pragmatic introduction to one of the world's most popular programming languages](https://github.com/themockingjester/Books/blob/master/Java%20Fundamentals.pdf)
+> ©2019 by Gazihan Alankus, Rogério Theodoro de Brito, Basheer Ahamed Fazal, Vinicius Isola, Miles Obare
+
+Java Fundamentals is designed for tech enthusiasts who are familiar with some programming languages and want a quick introduction to the most important principles of Java.
+
+### [Java For Dummies, 7th Edition](https://github.com/themockingjester/Books/blob/master/java-for-dummies.pdf)
+> ©2017 by Barry A. Burd
+
+Java is everywhere, runs on almost any computer, and is the engine that drives the coolest applications. Written for anyone who’s ever wanted to tackle programming with Java but never knew quite where to begin, this bestselling guide is your ticket to success! Featuring updates on everything you’ll encounter in Java 9—and brimming with tons of step-by-step instruction—it’s the perfect resource to get you up and running with Java in a jiffy!
+
+### [Core Java: Volume I—Fundamentals, Tenth Edition](https://d1b10bmlvqabco.cloudfront.net/attach/jc58lmmawh926u/jc5b5p5oen65ss/jc80gkzos6l4/corejavavolumeifundamentals.pdf)
+> ©2016 by Cay S. Horstmann
+
+Foundational coverage of Java 8 language concepts, UI programming, objects, generics, collections, lambda expressions, concurrency, functional programming, and more.
+
+### [Core Java: Volume II—Advanced Features 10th Edition](https://github.com/themockingjester/Books/blob/master/Core%20Java%20Volume%20II--Advanced%2C%2010th%20Edition.pdf)
+> ©2017 by Cay S. Horstmann
+
+Coverage of Java 8 streams, input and output, XML, databases, annotations, and other advanced topics.
+
 ### [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/thinkjava7/html/)
 > Second Edition by Allen B. Downey & Chris Mayfield  
 > ![GitHub OctoCat image](images/blacktocat.png) [ThinkJava2 repository on GitHub](https://github.com/ChrisMayfield/ThinkJava2)
@@ -389,6 +440,16 @@ In this post I want to get you up to speed with Deno quickly. We'll compare it w
 > by Allen B. Downey
 
 Build your own Web search engine — including a crawler, indexer, and search interface — while learning about data structures and algorithms in Java.
+
+### [An Introduction to Object-Oriented Programming with Java, 5th Edition](https://github.com/themockingjester/Books/blob/master/An%20Introduction%20to%20Object-Oriented%20Programming%20with%20Java%20(5th%20ed.)%20%5BWu%202009-03-24%5D.pdf)
+> ©2009 by C. Thomas Wu
+
+An Introduction to Object-Oriented Programming with Java takes a full-immersion approach to object-oriented programming. Proper object-oriented design practices are emphasized throughout the book. Students learn how to use the standard classes first, then learn to design their own classes.
+
+### [Head First Java, 2nd Edition](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf)
+> ©2005 by Kathy Sierra, Bert Bates
+
+Head First Java combines puzzles, strong visuals, mysteries, and soul-searching interviews with famous Java objects to engage you in many different ways. It's fast, it's fun, and it's effective. And, despite its playful appearance, Head First Java is serious stuff: a complete introduction to object-oriented programming and Java.
 
 ### [Open Data Structures (in Java)](https://opendatastructures.org/ods-java.pdf)
 > by Pat Morin
@@ -402,8 +463,25 @@ software project. The LATEX source, Java source, and build scripts for the book 
 
 <p align="center">Back to the <a href="#top">Top</a></p>
 
+### [Pro C# 10 with .NET 6, Eleventh Edition](https://dl.ebooksworld.ir/books/Pro.CSharp.10.with.NET.6.Andrew.Troelsen.Phil.Japikse.Apress.9781484278680.EBooksWorld.ir.pdf)
+> Foundational Principles and Practices in Programming  
+> ©2022 by Andrew Troelsen, Phil Japikse
+
+Dive in and discover why this essential classic is a favorite of C# developers worldwide. Gain a solid foundation in object-oriented development techniques, attributes and reflection, generics and collections, and numerous advanced topics not found in other texts (such as CIL opcodes and emitting dynamic assemblies). Pro C# 10 with .NET 6 will build your coding confidence putting C# into practice, and exploring the .NET universe and its vast potential on your own terms.
+
+### [Pro ASP.NET Core 6, Ninth Edition](https://sd.blackball.lv/library/Pro_ASP.NET_Core_6_9th_Edition_(2022).pdf)
+> Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages  
+> ©2022 by Adam Freeman
+
+Professional developers will produce leaner applications for the ASP.NET Core platform using the guidance in this best-selling book, now in its 9th edition and updated for ASP.NET Core for .NET 6. It contains detailed explanations of the ASP.NET Core platform and the application frameworks it supports. This cornerstone guide puts ASP.NET Core for .NET 6 into context and dives deep into the tools and techniques required to build modern, extensible web applications. New features and capabilities such as MVC, Razor Pages, Blazor Server, and Blazor WebAssembly are covered, along with demonstrations of how they are applied.
+
+### [Pro ASP.NET Core MVC, Sixth Edition](https://sd.blackball.lv/library/Pro_ASP.Net_Core_MVC_(2016).pdf)
+> ©2016 by Adam Freeman
+
+Now in its 6th edition, the best selling book on MVC is now updated for ASP.NET Core MVC. It contains detailed explanations of the new Core MVC functionality which enables developers to produce leaner, cloud optimized and mobile-ready applications for the .NET platform. This book puts ASP.NET Core MVC into context and dives deep into the tools and techniques required to build modern, cloud optimized extensible web applications. All the new MVC features are described in detail and the author explains how best to apply them to both new and existing projects.
+
 ### [Beginning ASP.neT 4.5.1 in C# and VB](https://dl.softgozar.com/Files/Ebook/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com.pdf)
-> by Imar Spaanjaars
+> ©2014 by Imar Spaanjaars
 
 In this comprehensive guide to getting started with ASP.NET 4.5.1, best-selling author Imar Spaanjaars provides a firm foundation for coders new to ASP.NET and key insights for those not yet familiar with the important updates in the 4.5.1 release. Readers learn how to build full-featured ASP.NET websites using Visual Studio Express 2013 for Web, Microsoft's free development tool for ASP.NET web applications. Beginning ASP.NET 4.5.1 guides you through the process of creating a fully functional, database-driven website, from creation of the most basic site structure all the way down to the successful deployment of the website to a production environment.
 
@@ -427,6 +505,11 @@ An introduction to programming using the C++ programming language.
 > by Robert Pickering
 
 Starting with the classic "Hello World" program and the basics of identifiers, recursion, and operators, and working through to graphics, simulations, and interactive forms, this book is the ideal first step to becoming a fluent F# programmer. F#'s integration with Visual Studio—featuring IntelliSense expression completion and an interactive version of the language for dynamic code evaluation—makes it the go-to functional language of the .NET platform.
+
+### [Learning Image Processing with OpenCV](https://github.com/themockingjester/Books/blob/master/Learning%20Image%20Processing%20with%20OpenCV%20by%20Gloria%20Bueno%20Garcia%20-%202015.pdf)
+> ©2015 by Gloria Bueno Garcia, Oscar Deniz Suarez, Jose Luis Espinosa Aranda, Jesus Salido Tercero, Ismael Serrano Gracia
+
+If you are a competent C++ programmer and want to learn the tricks of image processing with OpenCV, then this book is for you. A basic understanding of image processing is required.
 
 ### [Think OS: A Brief Introduction to Operating Systems](https://greenteapress.com/thinkos/html/index.html)
 > by Allen B. Downey
