@@ -457,6 +457,9 @@ Head First Java combines puzzles, strong visuals, mysteries, and soul-searching 
 The goal of this project is to free undergraduate computer science students from having to pay for an introductory data structures book. I have decided to implement this goal by treating this book like an Open Source
 software project. The LATEX source, Java source, and build scripts for the book are available to download from the [author’s website](http://opendatastructures.org/) and also, more importantly, on a [reliable source code management site](https://github.com/patmorin/ods).
 
+### [Scala For The Impatient](https://github.com/Kikou1998/textbook/blob/master/Scala%20For%20The%20Impatient.pdf)
+> ©2011
+
 <hr>
 
 ## ASP.NET
@@ -704,10 +707,25 @@ This book provides programmers with the ability to cost effectively handl ecommo
 
 Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula. This revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published.
 
+### [Computer Systems: A Programmer's Perspective, 3rd Edition](https://github.com/Kikou1998/textbook/blob/master/CSAPP.pdf)
+> ©2016 by Randal Bryant, David O'Hallaron
+
+Computer systems: A Programmer’s Perspective explains the underlying elements common among all computer systems and how they affect general application performance. Written from the programmer’s perspective, this book strives to teach readers how understanding basic elements of computer systems and executing real practice can lead them to create better programs.
+
+### [Computer Architecture: A Quantitative Approach, 5th Edition](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
+> ©2012 by John L. Hennessy, David A. Patterson
+
+Computer Architecture: A Quantitative Approach, Fifth Edition, explores the ways that software and technology in the cloud are accessed by digital media, such as cell phones, computers, tablets, and other mobile devices. The book, which became a part of Intel's 2012 recommended reading list for developers, covers the revolution of mobile computing. It also highlights the two most important factors in architecture today: parallelism and memory hierarchy.
+
 ### [Compilers Principles Techniques and Tools (2nd Edition)](https://github.com/qshadun/books/blob/master/Compilers%20Principles%20Techniques%20and%20Tools%20(2nd%20Edition)%20.pdf)
 > ©2007 by Alfred Aho, Jeffrey Ullman, Ravi Sethi, Monica Lam
 
 Compilers: Principles, Techniques and Tools, known to professors, students, and developers worldwide as the "Dragon Book," is available in a new edition. Every chapter has been completely revised to reflect developments in software engineering, programming languages, and computer architecture that have occurred since 1986, when the last edition published. The authors, recognizing that few readers will ever go on to construct a compiler, retain their focus on the broader set of problems faced in software design and software development.
+
+### [Operating System Design: The Xinu Approach, Second Edition](https://github.com/Kikou1998/textbook/blob/master/Operating%20System%20Design%20The%20Xinu%20Approach.pdf)
+> ©2015 by Douglas Comer
+
+Continuing to follow a logical pattern for system design, Operating System Design: The Xinu Approach, Second Edition removes the mystery from operating system design and consolidates the body of material into a systematic discipline. It presents a hierarchical design paradigm that organizes major operating system components in an orderly, understandable manner.
 
 ### [A Course in Machine Learning](https://github.com/Kikou1998/textbook/blob/master/A_course_in_machine_learning.pdf)
 > ©2017 by Hal Daumé III
@@ -724,10 +742,20 @@ Artificial Intelligence: A Modern Approach, 3e offers the most comprehensive, up
 
 Few books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360, its massive software system. Now, 20 years after the initial publication of his book, Brooks has revisited his original ideas and added new thoughts and advice, both for readers already familiar with his work and for readers discovering it for the first time.
 
+### [Introduction to Real Analysis, 4th Edition](https://github.com/Kikou1998/textbook/blob/master/Introduction%20to%20Real%20Analysis%204th%20by%20Robert%20G.%20Bartle.pdf)
+> ©2011 by Robert G. Bartle, Donald R. Sherbert
+
+This text provides the fundamental concepts and techniques of real analysis for students in all of these areas. It helps one develop the ability to think deductively, analyze mathematical situations, and extend ideas to a new context. Like the first three editions, this edition maintains the same spirit and user-friendly approach with additional examples and expansion on Logical Operations and Set Theory.
+
 ### [Elementary Differential Equations, 11th Edition](https://github.com/Kikou1998/textbook/blob/master/11th.pdf)
 > ©2017 by William E. Boyce, Richard C. DiPrima, Douglas B. Meade
 
 Elementary Differential Equations, 11th Edition is written from the viewpoint of the applied mathematician, whose interest in differential equations may sometimes be quite theoretical, sometimes intensely practical, and often somewhere in between. The authors have sought to combine a sound and accurate (but not abstract) exposition of the elementary theory of differential equations with considerable material on methods of solution, analysis, and approximation that have proved useful in a wide variety of applications. While the general structure of the book remains unchanged, some notable changes have been made to improve the clarity and readability of basic material about differential equations and their applications.
+
+### [Linear Algebra, 4th Edition](https://github.com/Kikou1998/textbook/blob/master/Linear%20Algebra.pdf)
+> ©2004 by Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence
+
+This top-selling, theorem-proof text presents a careful treatment of the principal topics of linear algebra, and illustrates the power of the subject through a variety of applications. It emphasizes the symbiotic relationship between linear transformations and matrices, but states theorems in the more general infinite-dimensional case where appropriate.
 
 ### [A First Course in Probability, 9th Edition](https://github.com/Kikou1998/textbook/blob/master/A%20First%20Course%20in%20Probability%209th%20Edition.pdf)
 > ©2014 by Sheldon Ross
