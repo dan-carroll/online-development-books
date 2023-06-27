@@ -743,6 +743,11 @@ Learn about software synchronization by solving a series of puzzles.
 
 Improve your organization's performance to ensure smooth production of software and services. Learn how Continuous Integration and Continuous Delivery practices can be utilized to cultivate the DevOps culture. A fast-paced guide filled with illustrations and best practices to help you consistently ship quality software.
 
+### [Practical DevOps: Harness the power of DevOps to boost your skill set and make your IT organization perform better](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Practical%20DevOps.pdf)
+> ©2016 by Joakim Verona
+
+After a quick refresher to DevOps and continuous delivery, we quickly move on to looking at how DevOps affects architecture. You'll create a sample enterprise Java application that you'll continue to work with through the remaining chapters.
+
 ### [DevOps for Web Development](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/DevOps%20for%20Web%20Development.pdf)
 > ©2016 by Mitesh Soni
 
@@ -757,6 +762,11 @@ This book aims to show readers network automation processes they could implement
 > ©2016 by Michael S. Cuppett
 
 Learn how DBAs in a DevOps environment manage data platforms and change requests to support and optimize continuous integration, delivery, testing, and deployment in the application development life cycle.
+
+### [Learning DevOps - Continuously Deliver Better Software](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Learning%20DevOps%20-%20Continuously%20Deliver%20Better%20Software.pdf)
+> ©2016 by Joakim Verona, Michael Duffy, Paul Swartout
+
+Learn to use some of the most exciting and powerful tools to deliver world-class quality software with continuous delivery and DevOps.
 
 ### [DevOps on the Microsoft Stack](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/DevOps%20on%20the%20Microsoft%20Stack.pdf)
 > ©2016 by Wouter de Kort
@@ -987,10 +997,35 @@ The rmarkdown package (Allaire et al. 2023) was first created in early 2014. Dur
 
 This Linux Command Handbook will cover 60 core Bash commands you will need as a developer. Each command includes example code and tips for when to use it.
 
+### [Linux Networking Cookbook](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Linux%20Networking%20Cookbook.pdf)
+> ©2016 by Gregory Boyce
+
+Over 40 recipes to help you set up and configure Linux networks.
+
+### [Mastering Wireshark](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Mastering%20Wireshark.pdf)
+> ©2016 by Charit Mishra
+
+Understand Wireshark and its numerous features with the aid of this fast-paced book packed with numerous screenshots, and become a pro at resolving network anomalies.
+
+### [Nmap Essentials](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Nmap%20Essentials.pdf)
+> ©2015 by David Shaw
+
+Secure and troubleshoot large scale networks using the powerful features of NMAP with this easy-to-follow guide.
+
+### [Learning Linux Shell Scripting](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Learning%20Linux%20Shell%20Scripting.pdf)
+> ©2015 by Ganesh Sanjiv Naik
+
+Unleash the power of shell scripts to solve real-world problems by breaking through the practice of writing tedious code.
+
 ### [Linux Command Line and Shell Scripting Bible, 3rd Edition](https://github.com/rajucs/Book-For-Programmers/blob/master/Linux%20Command%20Line%20and%20Shell%20Scripting%20Bible%203rd%20Edition%20%7BPRG%7D.pdf)
 > ©2015 by Richard Blum, Christine Bresnahan
 
 Talk directly to your system for a faster workflow with automation capability.
+
+### [Learning Shell Scripting with Zsh](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Learning%20Shell%20Scripting%20with%20Zsh.pdf)
+> ©2014 by Gaston Festari
+
+Your one-stop guide to reading, writing, and debugging simple and complex Z shell scripts.
 
 ### [The Unix Workbench](https://seankross.com/the-unix-workbench/)
 > ©2019 by Sean Kross
