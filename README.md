@@ -101,6 +101,11 @@ Expand your abilities using the Pygame library to make games with graphics, anim
 
 If you have ever wanted to create casual games in Python and you would like to explore various GUI technologies that this language offers, this is the book for you. This title is intended for beginners to Python with little or no knowledge of game development, and it covers step by step how to build seven different games, from the well-known Space Invaders to a classical 3D platformer.
 
+### [Rapid GUI Programming with Python and Qt: The Definitive Guide to PyQt Programming](https://github.com/media-lib/prog_lib/blob/master/general/Mark%20Summerfield%20-%20Rapid%20GUI%20Programming%20with%20Python%20and%20Qt.pdf)
+> ©2015 by Mark Summerfield
+
+With Rapid GUI Programming with Python and Qt you'll learn how to build efficient GUI applications that run on all major operating systems, including Windows, Mac OS X, Linux, and many versions of Unix, using the same source code for all of them.
+
 ### [Think Python: How to Think Like a Computer Scientist, 2nd Edition](https://greenteapress.com/thinkpython2/html/index.html)
 > ©2016 by Allen B. Downey
 
@@ -436,13 +441,13 @@ Foundational coverage of Java 8 language concepts, UI programming, objects, gene
 Coverage of Java 8 streams, input and output, XML, databases, annotations, and other advanced topics.
 
 ### [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/thinkjava7/html/)
-> Second Edition by Allen B. Downey & Chris Mayfield  
+> ©2020 Second Edition by Allen B. Downey & Chris Mayfield  
 > ![GitHub OctoCat image](images/blacktocat.png) [ThinkJava2 repository on GitHub](https://github.com/ChrisMayfield/ThinkJava2)
 
 [Interactive Textbook](https://books.trinket.io/thinkjava2/index.html): An introduction to Java that covers input/output, control structures, object-oriented programming, and other essential topics. Trinket has made many of the examples and exercises in this open-licensed book interactive in collaboration with the authors.
 
 ### [Think Data Structures: Algorithms and Information Retrieval in Java](https://greenteapress.com/thinkdast/html/index.html)
-> by Allen B. Downey
+> ©2017 by Allen B. Downey
 
 Build your own Web search engine — including a crawler, indexer, and search interface — while learning about data structures and algorithms in Java.
 
@@ -450,6 +455,11 @@ Build your own Web search engine — including a crawler, indexer, and search in
 > ©2009 by C. Thomas Wu
 
 An Introduction to Object-Oriented Programming with Java takes a full-immersion approach to object-oriented programming. Proper object-oriented design practices are emphasized throughout the book. Students learn how to use the standard classes first, then learn to design their own classes.
+
+### [Thinking in Java, 4th Edition](https://github.com/media-lib/prog_lib/blob/master/java/Bruce%20Eckel%20-%20Thinking%20in%20Java%204th%20Edition.pdf)
+> ©2006 by Bruce Eckel
+
+Thinking in Java has earned raves from programmers worldwide for its extraordinary clarity, careful organization, and small, direct programming examples. From the fundamentals of Java syntax to its most advanced features.
 
 ### [Head First Java, 2nd Edition](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf)
 > ©2005 by Kathy Sierra, Bert Bates
@@ -561,6 +571,11 @@ The new C++11 standard allows programmers to express ideas more clearly, simply,
 
 The book is organized around 55 specific guidelines, each of which describes a way to write better C++. Each is backed by concrete examples. For this third edition, more than half the content is new, including added chapters on managing resources and using templates.
 
+### [Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library](https://github.com/media-lib/prog_lib/blob/master/general/Scott%20Meyers%20-%20Effective%20STL.pdf)
+> ©2001 by Scott Meyers
+
+Other books describe what’s in the STL. Effective STL shows you how to use it. Each of the book’s 50 guidelines is backed by Meyers’ legendary analysis and incisive examples, so you’ll learn not only what to do, but also when to do it – and why.
+
 ### [Think C/C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf)
 > ©1999 by Allen B. Downey
 
@@ -633,6 +648,16 @@ My hope is that have the same impact today as the day they were published. And t
 
 The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to Think Like a Programmer.
 
+### [97 Things Every Programmer Should Know: Collective Wisdom From The Experts](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)
+> Online at ['97 Things Every Programmer Should Know' project](http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know)
+
+With the 97 short and extremely useful tips for programmers in this book, you'll expand your skills by adopting new approaches to old problems, learning appropriate best practices, and honing your craft through sound advice.
+
+### [Object-Oriented vs. Functional Programming: Bridging the Divide Between Opposing Paradigms](https://github.com/media-lib/prog_lib/blob/master/general/Object-Oriented_vs._Functional.pdf)
+> ©2016 by Richard Warburton
+
+This is a 35 pages monograph discussing the bridging the divide between opposing paradigms.
+
 ### [Foundations of Programming: Building Better Software](https://www.openmymind.net/FoundationsOfProgramming.pdf)
 > by [Karl Seguin](https://github.com/karlseguin) (2007)
 
@@ -647,6 +672,16 @@ The only book designed specifically for today's software engineers, based on ext
 > ©2020 by David Thomas, Andrew Hunt
 
 The Pragmatic Programmer is one of those rare tech books you’ll read, re-read, and read again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time.
+
+### [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://github.com/media-lib/prog_lib/blob/master/general/Chad%20Fowler%20-%20The%20Passionate%20Programmer%2C%202nd%20edition.pdf)
+> ©2009 by Chad Fowler
+
+Success in today's IT environment requires you to view your career as a business endeavor. In this book, you'll learn how to become an entrepreneur, driving your career in the direction of your choosing. You'll learn how to build your software development career step by step, following the same path that you would follow if you were building, marketing, and selling a product. After all, your skills themselves are a product.
+
+### [The Art of Assembly Language, 2nd Edition](https://github.com/media-lib/prog_lib/blob/master/general/Randall%20Hyde%20-%20The%20Art%20of%20Assembly%20Language%2C%202nd%20Edition.pdf)
+> ©2010 by Randall Hyde
+
+Since 1996, Randall Hyde's The Art of Assembly Language has provided a comprehensive, plain-English, and patient introduction to assembly for non-assembly programmers. Hyde's primary teaching tool, High Level Assembler (or HLA), incorporates many of the features found in high-level languages (like C, C++, and Java) to help you quickly grasp basic assembly concepts. HLA lets you write true low-level code while enjoying the benefits of high-level language programming.
 
 ### [Programming from the Ground Up](http://ftp.twaren.net/Unix/NonGNU//pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 > ©2003 by Jonathan Bartlett
@@ -664,7 +699,7 @@ Software development’s not quite the lawless and anarchic wild frontier people
 Now in its third edition, this classic guide to software requirements engineering has been fully updated with new topics, examples, and guidance. Two leaders in the requirements community have teamed up to deliver a contemporary set of practices covering the full range of requirements development and management activities on software projects.
 
 ### [Software Estimation: Demystifying the Black Art](https://ptgmedia.pearsoncmg.com/images/9780735605350/samplepages/9780735605350.pdf)
-> © 2006 by Steve McConnell
+> ©2006 by Steve McConnell
 
 A practical guide for software developers and development teams, this book features effective and understandable formulas, procedures, and heuristics to help organizations improve their project cost estimates.
 
@@ -672,6 +707,11 @@ A practical guide for software developers and development teams, this book featu
 > ©2009 by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)
 
 Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.
+
+### [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://khmerbamboo.files.wordpress.com/2014/09/code-complete-2nd-edition-v413hav.pdf)
+> ©2004 by Steve McConnell
+
+Widely considered one of the best practical guides to programming, Steve McConnell’s original code complete has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction.
 
 ### [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://github.com/rajucs/Book-For-Programmers/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
 > by [Eric Evans](https://www.domainlanguage.com/), August 20, 2003
@@ -703,6 +743,11 @@ Quite simply, test-driven development is meant to eliminate fear in application 
 
 If you're looking to gain an introduction into the world of user experience (UX) design—or maybe even freshen up your knowledge of the field—then this UX design book is the ideal place to start.
 
+### [A Theory of Fun for Game Design](https://github.com/media-lib/prog_lib/blob/master/general/Raph%20Koster%20-%20A%20Theory%20of%20Fun%20for%20Game%20Design.pdf)
+> ©2005 by Raph Koster
+
+A Theory of Fun for Game Design is not your typical how-to book. It features a novel way of teaching interactive designers how to create and improve their designs to incorporate the highest degree of fun. As the book shows, designing for fun is all about making interactive products like games highly entertaining, engaging, and addictive. The book's unique approach of providing a highly visual storyboard approach combined with a narrative on the art and practice of designing for fun is sure to be a hit with game and interactive designers.
+
 ### [Agile Software Development: Principles, Patterns, and Practices](https://github.com/GunterMueller/Books-3/blob/master/Agile%20Software%20Development.pdf)
 > ©2003 by Robert Martin
 
@@ -732,6 +777,11 @@ Algorithms are the lifeblood of computer science. They are the machines that pro
 > ©2006 by Jon Kleinberg, Eva Tardos
 
 Algorithm Design introduces algorithms by looking at the real-world problems that motivate them. The book teaches students a range of design and analysis techniques for problems that arise in computing applications. The text encourages an understanding of the algorithm design process and an appreciation of the role of algorithms in the broader field of computer science.
+
+### [An Introduction to the Analysis of Algorithms, 2nd Edition](https://github.com/media-lib/prog_lib/blob/master/general/Robert%20Sedgewick%2C%20Philippe%20Flajolet%20-%20%20An%20Introduction%20to%20the%20Analysis%20of%20Algorithms%2C%202nd%20Edition.pdf)
+> ©2009 by Robert Sedgewick, Philippe Flajolet
+
+Despite growing interest, basic information on methods and models for mathematically analyzing algorithms has rarely been directly accessible to practitioners, researchers, or students. An Introduction to the Analysis of Algorithms, Second Edition, organizes and presents that knowledge, fully introducing primary techniques and results in the field.
 
 ### [The Little Book of Semaphores](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
 > ©2016 by Allen B. Downey
@@ -797,6 +847,11 @@ A practical and engaging guide to help map out, plan and navigate through the jo
 > ©2009 by Neil Davidson
 
 This short handbook will provide you with the theory, practical advice and case studies you need to stop yourself from reaching for the dice.
+
+### [Assembly Language for X86 Processors, 6th Edition](https://github.com/media-lib/prog_lib/blob/master/general/Kip%20R.%20Irvine%20-%20Assembly%20Language%20for%20x86%20Processors%2C%206th%20edition.pdf)
+> ©2010 by Kip R. Irvine
+
+Assembly Language for x86 Processors, 6/e is ideal for undergraduate courses in assembly language programming and introductory courses in computer systems and computer architecture. Written specifically for the Intel/Windows/DOS platform, this complete and fully updated study of assembly language teaches students to write and debug programs at the machine level.
 
 ### [Working Effectively with Legacy Code](https://github.com/rajucs/Book-For-Programmers/blob/master/%5BPROGRAMMING%5D%5BWorking%20Effectively.%20with%20Legacy%20Code%5D.pdf)
 > ©2005 by Michael Feathers
@@ -869,6 +924,11 @@ A First Course in Probability, Ninth Edition, features clear and intuitive expla
 > ©1972 by Frederick P. Brooks, Jr.
 
 The Mythical Man-Month: Essays on Software Engineering is a book on software engineering and project management by Fred Brooks first published in 1975, with subsequent editions in 1982 and 1995. Its central theme is that adding manpower to a software project that is behind schedule delays it even longer.
+
+### [Reversing: Secrets of Reverse Engineering](https://github.com/media-lib/prog_lib/blob/master/general/Eldad%20Eilam%20-%20Reversing%20-%20Secrets%20of%20Reverse%20Engineering.pdf)
+> ©2005 by Eldad Eilam
+
+Beginning with a basic primer on reverse engineering-including computer internals, operating systems, and assembly language-and then discussing the various applications of reverse engineering, this book provides readers with practical, in-depth techniques for software reverse engineering.
 
 <hr>
 
