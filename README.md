@@ -467,15 +467,16 @@ Thinking in Java has earned raves from programmers worldwide for its extraordina
 Head First Java combines puzzles, strong visuals, mysteries, and soul-searching interviews with famous Java objects to engage you in many different ways. It's fast, it's fun, and it's effective. And, despite its playful appearance, Head First Java is serious stuff: a complete introduction to object-oriented programming and Java.
 
 ### [Open Data Structures (in Java)](https://opendatastructures.org/ods-java.pdf)
+> [Interactive web version](https://opendatastructures.org/ods-java/)
 > by Pat Morin
 
 The goal of this project is to free undergraduate computer science students from having to pay for an introductory data structures book. I have decided to implement this goal by treating this book like an Open Source
 software project. The LATEX source, Java source, and build scripts for the book are available to download from the [author’s website](http://opendatastructures.org/) and also, more importantly, on a [reliable source code management site](https://github.com/patmorin/ods).
 
 ### [Scala For The Impatient](https://github.com/Kikou1998/textbook/blob/master/Scala%20For%20The%20Impatient.pdf)
-> ©2011
+> ©2011 by Cay Horstmann
 
-
+Scala for the Impatient concisely shows developers what Scala can do and how to do it. In this book, Cay Horstmann, the principal author of the international best-selling Core Java™, offers a rapid, code-based introduction that’s completely practical. Horstmann introduces Scala concepts and techniques in “blog-sized” chunks that you can quickly master and apply. Hands-on activities guide you through well-defined stages of competency, from basic to expert.
 
 <hr>
 
@@ -978,7 +979,9 @@ An introduction to complexity science, which includes small-world graphs, scale-
 
 ### [Getting Started with Open Source Development](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf)
 
-> A book for the community by the community
+> A book for the community by the community  
+> ©2010 by Rachna Kapur, Mario Briggs, Tapas Saha, Ulisses Costa,
+Pedro Carvalho, Raul F. Chong, Peter Kohlmann
 
 This book is a good starting point for beginners to the open source world. It is specially
 written to equip students, and open source enthusiasts with the norms and best practices
