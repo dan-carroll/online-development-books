@@ -273,7 +273,7 @@ Tutorial: Webpack is a tool that lets you compile JavaScript modules. It’s als
 
 I have utilized the [web2py framework](http://www.web2py.com/) in numerous projects over the years. It is a great way to learn to create fully functional web applications of any complexity while also learning Python. I totally consumed the fifth edition of this book and am currently delving into the latest (sixth) edition while getting up to speed on a new project. There are differences (updates) to the book and framework, so here I go again.
 
-### [py4web: the reference Manual](https://py4web.com/_documentation/static/en/index.html)
+### [py4web: the reference Manual](https://py4web.com/_documentation/static/en/index.html) [py4web Documentation, pdf](https://py4web.com/_documentation/static/en/py4web_en.pdf)
 > by Massimo Di Pierro
 
 PY4WEB is a web framework for rapid development of efficient database driven web applications. It is an evolution of the popular web2py framework, but much faster and slicker. Its internal design has been much simplified compared to web2py.
